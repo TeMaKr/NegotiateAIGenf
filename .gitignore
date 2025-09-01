@@ -176,6 +176,6 @@ orchestration/pocketbase/pocketbase*
 
 sandbox.py
 
-orchestration/fastapi/src/data/pdf_files/
-*.tar.gz
+
+
 
