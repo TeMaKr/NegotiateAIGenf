@@ -1,0 +1,54 @@
+services:
+  negotiate_ai_app:
+    image: negotiate_ai_app
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+  negotiate_ai_scripts:
+    image: negotiate_ai_app
+    command: "sh -c 'python -m scripts'"
+    depends_on:
+      - negotiate_ai_app
+      - negotiate_ai_redis
+      - negotiate_ai_celery_worker
+      - negotiate_ai_api
+    env_file:
+      - .env
+    volumes:
+      - ./src:/api
+      - ./pyproject.toml:/api/pyproject.toml
+
+  negotiate_ai_api:
+    image: negotiate_ai_app
+    depends_on:
+      - negotiate_ai_app
+    command: "sh -c 'uvicorn api:app --workers=1 --host '0.0.0.0' --port '8000' --reload'"
+    env_file:
+      - .env
+    environment:
+      - HF_HOME=/tmp/huggingface
+    ports:
+      - 8000:8000
+    volumes:
+      - ./src:/api
+      - ./pyproject.toml:/api/pyproject.toml
+
+  negotiate_ai_redis:
+    image: redis:7
+    command: "redis-server"
+    ports:
+      - 6379:6379
+
+  negotiate_ai_celery_worker:
+    image: negotiate_ai_app
+    command: "sh -c 'python -m celery --app=worker worker --loglevel=INFO -Q default' --pool=threads"
+    env_file:
+      - .env
+    volumes:
+      - ./src:/api
+    restart: unless-stopped
+    environment:
+      - TOKENIZERS_PARALLELISM=false

@@ -1,0 +1,25 @@
+    "problematic_and_avoidable_plastic_products_b": {
+      "status": ["settled"],
+      "content": "Problematic and avoidable plastic products, including short-lived and single-use plastic products",
+      "evolution": {
+        "status_progression": ["original", "modified, contested", "modified, contested", "modified, contested"],
+        "version_order": ["zero_draft", "revised_draft", "compilation_text", "chairs_text"]
+      }
+    },
+
+-> Merged into product design, now set to removed for chair text
+
+    "intentionally_added_microplastics": {
+      "status": ["settled"],
+      "content": "Intentionally added microplastics",
+      "evolution": {
+        "status_progression": ["original", "modified, contested", "modified, contested", "removed"],
+        "version_order": ["zero_draft", "revised_draft", "compilation_text", "chairs_text"]
+      }
+    },
+
+-> Merged into product design, now set to removed for chair text
+
+same for product design
+
+non-plastic substitutes is under plastic product design 

@@ -1,0 +1,1641 @@
+[
+    {
+        "category": "preamble",
+        "key_elements": [],
+        "subcategories": [
+            {
+                "subcategory": "preamble",
+                "key_elements": []
+            }
+        ]
+    },
+    {
+        "category": "objective",
+        "key_elements": [
+            "objective - life cycle approach",
+            "objective - marine environment",
+            "objective - plastic pollution",
+            "objective - protection of health and environment"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "objective",
+                "key_elements": [
+                    "objective - life cycle approach",
+                    "objective - plastic pollution",
+                    "objective - marine environment",
+                    "objective - protection of health and environment"
+                ]
+            },
+            {
+                "subcategory": "scope",
+                "key_elements": [
+                    "objective - life cycle approach",
+                    "objective - plastic pollution",
+                    "objective - marine environment",
+                    "objective - protection of health and environment"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "principles and approaches",
+        "key_elements": [
+            "principles - common but differentiated responsibility",
+            "principles - precautionary and polluter-pays principles",
+            "principles - rio declaration",
+            "principles - state sovereignty and international cooperation",
+            "principles - support for developing countries",
+            "principles - use of best available science, indigenous and traditional knowledge"
+        ],
+        "subcategories": []
+    },
+    {
+        "category": "definitions",
+        "key_elements": [
+            "party",
+            "plastic",
+            "plastic pollution",
+            "plastic product",
+            "plastic waste",
+            "regional economic integration organization"
+        ],
+        "subcategories": []
+    },
+    {
+        "category": "plastic products",
+        "key_elements": [
+            "plastic products criteria",
+            "chemicals - annex list of chemicals",
+            "chemicals - conference of the parties",
+            "chemicals - criteria",
+            "chemicals - list",
+            "chemicals - measures",
+            "chemicals - process",
+            "chemicals - report",
+            "chemicals - risk management",
+            "chemicals - submissions",
+            "chemicals - technical and scientific committee",
+            "chemicals - traceability",
+            "plastic products - national level",
+            "products - guidance",
+            "products - information need",
+            "products - list of products",
+            "products - measures",
+            "products - monitoring",
+            "products - submission of proposal",
+            "products - subsidiary body or review committee",
+            "products - trade"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "alternative plastics and plastic products",
+                "key_elements": [
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "chemicals - risk management",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "chemicals - report",
+                    "products - list of products",
+                    "chemicals - measures",
+                    "chemicals - process",
+                    "chemicals - submissions"
+                ]
+            },
+            {
+                "subcategory": "micro- and nanoplastics",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "prevent plastic and plastic pellet releases and leakages",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "manage fishing gear pollution",
+                    "promote best available technologies and practices",
+                    "product design - sustainable alternatives and innovation",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "consider national circumstances",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "products - list of products",
+                    "chemicals - measures",
+                    "product design - design criteria",
+                    "chemicals - process",
+                    "research and monitoring \u2013 leakage pathways",
+                    "chemicals - submissions"
+                ]
+            },
+            {
+                "subcategory": "problematic and avoidable plastic products, including short-lived and single-use plastic products",
+                "key_elements": [
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "chemicals - risk management",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "chemicals - report",
+                    "products - list of products",
+                    "chemicals - measures",
+                    "chemicals - process",
+                    "chemicals - submissions"
+                ]
+            },
+            {
+                "subcategory": "intentionally added microplastics",
+                "key_elements": [
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "chemicals - risk management",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "chemicals - report",
+                    "products - list of products",
+                    "chemicals - measures",
+                    "chemicals - process",
+                    "chemicals - submissions"
+                ]
+            },
+            {
+                "subcategory": "plastic products and chemicals of concern as used in plastic products",
+                "key_elements": [
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "chemicals - risk management",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "chemicals - report",
+                    "products - list of products",
+                    "chemicals - measures",
+                    "chemicals - process",
+                    "chemicals - submissions"
+                ]
+            },
+            {
+                "subcategory": "trade in listed chemicals, polymers and products, and in plastic waste",
+                "key_elements": [
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "principles - use of best available science, indigenous and traditional knowledge",
+                    "products - measures",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "product design - sustainable alternatives and innovation",
+                    "principles - precautionary and polluter-pays principles",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "principles - common but differentiated responsibility",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "products - list of products",
+                    "principles - support for developing countries",
+                    "chemicals - measures",
+                    "principles - rio declaration",
+                    "product design - design criteria",
+                    "chemicals - process",
+                    "chemicals - submissions",
+                    "principles - state sovereignty and international cooperation"
+                ]
+            },
+            {
+                "subcategory": "transparency, tracking, monitoring and labeling",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "ensure environmentally sound management (esm)",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "product design - sustainable alternatives and innovation",
+                    "chemicals - list",
+                    "support implementation by conference of parties (cop)",
+                    "products - subsidiary body or review committee",
+                    "identify and monitor plastic pollution hotspots",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "prevent littering, open dumping/burning, ocean dumping",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "stakeholder engagement and knowledge exchange",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "use of science and local knowledge",
+                    "products - list of products",
+                    "fishing gear waste",
+                    "pollution removal and cleanup",
+                    "chemicals - measures",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "product design - design criteria",
+                    "promote extended producer responsibility",
+                    "chemicals - process",
+                    "transboundary movement controls",
+                    "chemicals - submissions",
+                    "just transition - waste sector"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "exemptions",
+        "key_elements": [
+            "availability of alternatives",
+            "duration and expiry",
+            "extension process and criteria",
+            "phase-out dates",
+            "public registry and transparency",
+            "registration and justification of exemptions",
+            "statement of need",
+            "withdrawal and reapplication"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "exemptions available to a party upon request",
+                "key_elements": [
+                    "phase-out dates",
+                    "extension process and criteria",
+                    "withdrawal and reapplication",
+                    "duration and expiry",
+                    "registration and justification of exemptions",
+                    "statement of need",
+                    "availability of alternatives",
+                    "public registry and transparency"
+                ]
+            },
+            {
+                "subcategory": "dedicated programmes of work",
+                "key_elements": [
+                    "phase-out dates",
+                    "extension process and criteria",
+                    "withdrawal and reapplication",
+                    "duration and expiry",
+                    "registration and justification of exemptions",
+                    "statement of need",
+                    "availability of alternatives",
+                    "public registry and transparency"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "plastic product design",
+        "key_elements": [
+            "alignment with international standards",
+            "non-discrimination clause trade",
+            "product design - circular economy principles",
+            "product design - design criteria",
+            "product design - sustainable alternatives and innovation",
+            "sectoral guidance development"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "product design, composition and performance",
+                "key_elements": [
+                    "product design - sustainable alternatives and innovation",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "sectoral guidance development",
+                    "product design - design criteria",
+                    "non-discrimination clause trade"
+                ]
+            },
+            {
+                "subcategory": "transparency, tracking, monitoring and labeling",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "ensure environmentally sound management (esm)",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "product design - sustainable alternatives and innovation",
+                    "chemicals - list",
+                    "support implementation by conference of parties (cop)",
+                    "products - subsidiary body or review committee",
+                    "identify and monitor plastic pollution hotspots",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "prevent littering, open dumping/burning, ocean dumping",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "stakeholder engagement and knowledge exchange",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "use of science and local knowledge",
+                    "products - list of products",
+                    "fishing gear waste",
+                    "pollution removal and cleanup",
+                    "chemicals - measures",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "product design - design criteria",
+                    "promote extended producer responsibility",
+                    "chemicals - process",
+                    "transboundary movement controls",
+                    "chemicals - submissions",
+                    "just transition - waste sector"
+                ]
+            },
+            {
+                "subcategory": "reduce, reuse, refill and repair of plastics and plastic products",
+                "key_elements": [
+                    "product design - sustainable alternatives and innovation",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "sectoral guidance development",
+                    "product design - design criteria",
+                    "non-discrimination clause trade"
+                ]
+            },
+            {
+                "subcategory": "use of recycled plastic contents",
+                "key_elements": [
+                    "product design - sustainable alternatives and innovation",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "sectoral guidance development",
+                    "product design - design criteria",
+                    "non-discrimination clause trade"
+                ]
+            },
+            {
+                "subcategory": "non-plastic substitutes",
+                "key_elements": [
+                    "product design - sustainable alternatives and innovation",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "sectoral guidance development",
+                    "product design - design criteria",
+                    "non-discrimination clause trade"
+                ]
+            },
+            {
+                "subcategory": "micro- and nanoplastics",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "prevent plastic and plastic pellet releases and leakages",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "manage fishing gear pollution",
+                    "promote best available technologies and practices",
+                    "product design - sustainable alternatives and innovation",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "consider national circumstances",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "products - list of products",
+                    "chemicals - measures",
+                    "product design - design criteria",
+                    "chemicals - process",
+                    "research and monitoring \u2013 leakage pathways",
+                    "chemicals - submissions"
+                ]
+            },
+            {
+                "subcategory": "trade in listed chemicals, polymers and products, and in plastic waste",
+                "key_elements": [
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "principles - use of best available science, indigenous and traditional knowledge",
+                    "products - measures",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "product design - sustainable alternatives and innovation",
+                    "principles - precautionary and polluter-pays principles",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "principles - common but differentiated responsibility",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "products - list of products",
+                    "principles - support for developing countries",
+                    "chemicals - measures",
+                    "principles - rio declaration",
+                    "product design - design criteria",
+                    "chemicals - process",
+                    "chemicals - submissions",
+                    "principles - state sovereignty and international cooperation"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "[supply][sustainable production]",
+        "key_elements": [
+            "data reporting obligations",
+            "global production target",
+            "lifecycle management measures",
+            "reporting format and guidance",
+            "review mechanism for target adjustment"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "supply",
+                "key_elements": [
+                    "review mechanism for target adjustment",
+                    "lifecycle management measures",
+                    "global production target",
+                    "data reporting obligations",
+                    "reporting format and guidance"
+                ]
+            },
+            {
+                "subcategory": "sustainable production",
+                "key_elements": [
+                    "review mechanism for target adjustment",
+                    "lifecycle management measures",
+                    "global production target",
+                    "data reporting obligations",
+                    "reporting format and guidance"
+                ]
+            },
+            {
+                "subcategory": "primary plastic polymers",
+                "key_elements": [
+                    "review mechanism for target adjustment",
+                    "lifecycle management measures",
+                    "global production target",
+                    "data reporting obligations",
+                    "reporting format and guidance"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "releases and leakages",
+        "key_elements": [
+            "consider national circumstances",
+            "guidance by conference of parties (cop)",
+            "manage fishing gear pollution",
+            "prevent plastic and plastic pellet releases and leakages",
+            "promote best available technologies and practices",
+            "research and monitoring \u2013 leakage pathways"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "emissions and releases of plastic throughout its life cycle",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "manage fishing gear pollution",
+                    "promote best available technologies and practices",
+                    "prevent plastic and plastic pellet releases and leakages",
+                    "research and monitoring \u2013 leakage pathways",
+                    "consider national circumstances"
+                ]
+            },
+            {
+                "subcategory": "fishing gear",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "manage fishing gear pollution",
+                    "promote best available technologies and practices",
+                    "fishing gear waste",
+                    "ensure environmentally sound management (esm)",
+                    "prevent plastic and plastic pellet releases and leakages",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "support implementation by conference of parties (cop)",
+                    "promote extended producer responsibility",
+                    "research and monitoring \u2013 leakage pathways",
+                    "consider national circumstances",
+                    "transboundary movement controls",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "just transition - waste sector",
+                    "prevent littering, open dumping/burning, ocean dumping"
+                ]
+            },
+            {
+                "subcategory": "releases and leakages",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "manage fishing gear pollution",
+                    "promote best available technologies and practices",
+                    "prevent plastic and plastic pellet releases and leakages",
+                    "research and monitoring \u2013 leakage pathways",
+                    "consider national circumstances"
+                ]
+            },
+            {
+                "subcategory": "micro- and nanoplastics",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "prevent plastic and plastic pellet releases and leakages",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "manage fishing gear pollution",
+                    "promote best available technologies and practices",
+                    "product design - sustainable alternatives and innovation",
+                    "chemicals - list",
+                    "products - subsidiary body or review committee",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "consider national circumstances",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "products - list of products",
+                    "chemicals - measures",
+                    "product design - design criteria",
+                    "chemicals - process",
+                    "research and monitoring \u2013 leakage pathways",
+                    "chemicals - submissions"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "plastic waste management",
+        "key_elements": [
+            "behavior change and awareness",
+            "ensure environmentally sound management (esm)",
+            "fishing gear waste",
+            "infrastructure development",
+            "just transition - waste sector",
+            "prevent littering, open dumping/burning, ocean dumping",
+            "promote circular economy approaches",
+            "promote extended producer responsibility",
+            "set national collection and recycling targets",
+            "support implementation by conference of parties (cop)",
+            "transboundary movement controls"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "plastic waste management",
+                "key_elements": [
+                    "fishing gear waste",
+                    "ensure environmentally sound management (esm)",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "support implementation by conference of parties (cop)",
+                    "promote extended producer responsibility",
+                    "transboundary movement controls",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "just transition - waste sector",
+                    "prevent littering, open dumping/burning, ocean dumping"
+                ]
+            },
+            {
+                "subcategory": "transboundary movement of plastic waste",
+                "key_elements": [
+                    "fishing gear waste",
+                    "ensure environmentally sound management (esm)",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "support implementation by conference of parties (cop)",
+                    "promote extended producer responsibility",
+                    "transboundary movement controls",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "just transition - waste sector",
+                    "prevent littering, open dumping/burning, ocean dumping"
+                ]
+            },
+            {
+                "subcategory": "extended producer responsibility",
+                "key_elements": [
+                    "conditions for support - prioritization and needs",
+                    "fishing gear waste",
+                    "structure and operation of the mechanism",
+                    "ensure environmentally sound management (esm)",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "support implementation by conference of parties (cop)",
+                    "funding uses - eligible activities",
+                    "promote extended producer responsibility",
+                    "transboundary movement controls",
+                    "funding sources and replenishment",
+                    "provision of financial support",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "just transition - waste sector",
+                    "prevent littering, open dumping/burning, ocean dumping"
+                ]
+            },
+            {
+                "subcategory": "fishing gear",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "manage fishing gear pollution",
+                    "promote best available technologies and practices",
+                    "fishing gear waste",
+                    "ensure environmentally sound management (esm)",
+                    "prevent plastic and plastic pellet releases and leakages",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "support implementation by conference of parties (cop)",
+                    "promote extended producer responsibility",
+                    "research and monitoring \u2013 leakage pathways",
+                    "consider national circumstances",
+                    "transboundary movement controls",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "just transition - waste sector",
+                    "prevent littering, open dumping/burning, ocean dumping"
+                ]
+            },
+            {
+                "subcategory": "waste management",
+                "key_elements": [
+                    "fishing gear waste",
+                    "ensure environmentally sound management (esm)",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "support implementation by conference of parties (cop)",
+                    "promote extended producer responsibility",
+                    "transboundary movement controls",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "just transition - waste sector",
+                    "prevent littering, open dumping/burning, ocean dumping"
+                ]
+            },
+            {
+                "subcategory": "transparency, tracking, monitoring and labeling",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "ensure environmentally sound management (esm)",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "product design - sustainable alternatives and innovation",
+                    "chemicals - list",
+                    "support implementation by conference of parties (cop)",
+                    "products - subsidiary body or review committee",
+                    "identify and monitor plastic pollution hotspots",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "prevent littering, open dumping/burning, ocean dumping",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "stakeholder engagement and knowledge exchange",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "use of science and local knowledge",
+                    "products - list of products",
+                    "fishing gear waste",
+                    "pollution removal and cleanup",
+                    "chemicals - measures",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "product design - design criteria",
+                    "promote extended producer responsibility",
+                    "chemicals - process",
+                    "transboundary movement controls",
+                    "chemicals - submissions",
+                    "just transition - waste sector"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "existing plastic pollution",
+        "key_elements": [
+            "guidance by conference of parties (cop)",
+            "identify and monitor plastic pollution hotspots",
+            "pollution removal and cleanup",
+            "stakeholder engagement and knowledge exchange",
+            "use of science and local knowledge"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "existing plastic pollution, including in the marine environment",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "pollution removal and cleanup",
+                    "stakeholder engagement and knowledge exchange",
+                    "identify and monitor plastic pollution hotspots",
+                    "use of science and local knowledge"
+                ]
+            },
+            {
+                "subcategory": "transparency, tracking, monitoring and labeling",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "chemicals - traceability",
+                    "chemicals - technical and scientific committee",
+                    "products - measures",
+                    "ensure environmentally sound management (esm)",
+                    "chemicals - risk management",
+                    "sectoral guidance development",
+                    "products - information need",
+                    "products - submission of proposal",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "chemicals - conference of the parties",
+                    "products - guidance",
+                    "product design - sustainable alternatives and innovation",
+                    "chemicals - list",
+                    "support implementation by conference of parties (cop)",
+                    "products - subsidiary body or review committee",
+                    "identify and monitor plastic pollution hotspots",
+                    "products - monitoring",
+                    "plastic products - national level",
+                    "prevent littering, open dumping/burning, ocean dumping",
+                    "alignment with international standards",
+                    "product design - circular economy principles",
+                    "products - trade",
+                    "plastic products criteria",
+                    "chemicals - criteria",
+                    "chemicals - annex list of chemicals",
+                    "stakeholder engagement and knowledge exchange",
+                    "chemicals - report",
+                    "non-discrimination clause trade",
+                    "use of science and local knowledge",
+                    "products - list of products",
+                    "fishing gear waste",
+                    "pollution removal and cleanup",
+                    "chemicals - measures",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "product design - design criteria",
+                    "promote extended producer responsibility",
+                    "chemicals - process",
+                    "transboundary movement controls",
+                    "chemicals - submissions",
+                    "just transition - waste sector"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "just transition",
+        "key_elements": [
+            "just transition - affected groups and works",
+            "just transition - general principles and considering national context",
+            "just transition - monitoring and reporting of transition measures"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "just transition",
+                "key_elements": [
+                    "just transition - general principles and considering national context",
+                    "just transition - monitoring and reporting of transition measures",
+                    "just transition - affected groups and works"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "financial [resources and] mechanism",
+        "key_elements": [
+            "conditions for support - prioritization and needs",
+            "funding sources and replenishment",
+            "funding uses - eligible activities",
+            "provision of financial support",
+            "structure and operation of the mechanism"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "financing",
+                "key_elements": [
+                    "conditions for support - prioritization and needs",
+                    "structure and operation of the mechanism",
+                    "funding uses - eligible activities",
+                    "funding sources and replenishment",
+                    "provision of financial support"
+                ]
+            },
+            {
+                "subcategory": "extended producer responsibility",
+                "key_elements": [
+                    "conditions for support - prioritization and needs",
+                    "fishing gear waste",
+                    "structure and operation of the mechanism",
+                    "ensure environmentally sound management (esm)",
+                    "infrastructure development",
+                    "behavior change and awareness",
+                    "support implementation by conference of parties (cop)",
+                    "funding uses - eligible activities",
+                    "promote extended producer responsibility",
+                    "transboundary movement controls",
+                    "funding sources and replenishment",
+                    "provision of financial support",
+                    "promote circular economy approaches",
+                    "set national collection and recycling targets",
+                    "just transition - waste sector",
+                    "prevent littering, open dumping/burning, ocean dumping"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "capacity building, technical assistance and technology transfer, including international cooperation",
+        "key_elements": [
+            "capacity building and technical assistance",
+            "guidance by conference of parties (cop)",
+            "international cooperation and coordination",
+            "technology transfer - terms and delivery"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "capacity-building",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "capacity building and technical assistance",
+                    "international cooperation and coordination",
+                    "technology transfer - terms and delivery"
+                ]
+            },
+            {
+                "subcategory": "technical assistance and technology transfer",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "capacity building and technical assistance",
+                    "international cooperation and coordination",
+                    "technology transfer - terms and delivery"
+                ]
+            },
+            {
+                "subcategory": "international cooperation",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "capacity building and technical assistance",
+                    "international cooperation and coordination",
+                    "technology transfer - terms and delivery"
+                ]
+            },
+            {
+                "subcategory": "technology transfer",
+                "key_elements": [
+                    "guidance by conference of parties (cop)",
+                    "capacity building and technical assistance",
+                    "international cooperation and coordination",
+                    "technology transfer - terms and delivery"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "implementation and compliance",
+        "key_elements": [
+            "committee procedures and reporting",
+            "establish compliance & implementation committee"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "implementation and compliance",
+                "key_elements": [
+                    "committee procedures and reporting",
+                    "establish compliance & implementation committee"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "national plans",
+        "key_elements": [
+            "national implementation plans",
+            "review and update of national plans",
+            "stakeholder engagement in planning"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "national plans",
+                "key_elements": [
+                    "review and update of national plans",
+                    "stakeholder engagement in planning",
+                    "national implementation plans"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "reporting",
+        "key_elements": [
+            "national reporting obligations",
+            "public access and transparency",
+            "report format and timeline"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "reporting on progress",
+                "key_elements": [
+                    "report format and timeline",
+                    "national reporting obligations",
+                    "public access and transparency"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "effectiveness evaluation",
+        "key_elements": [
+            "basis for evaluation",
+            "evaluation of convention effectiveness",
+            "modalities of evaluation process"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "assessment and monitoring",
+                "key_elements": [
+                    "basis for evaluation",
+                    "evaluation of convention effectiveness",
+                    "modalities of evaluation process"
+                ]
+            },
+            {
+                "subcategory": "effectiveness evaluation",
+                "key_elements": [
+                    "basis for evaluation",
+                    "evaluation of convention effectiveness",
+                    "modalities of evaluation process"
+                ]
+            },
+            {
+                "subcategory": "periodic assessment and monitoring of the progress of implementation of the instrument and effectiveness evaluation",
+                "key_elements": [
+                    "basis for evaluation",
+                    "evaluation of convention effectiveness",
+                    "modalities of evaluation process"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "information exchange",
+        "key_elements": [
+            "exchange of best practices and policy knowledge",
+            "information on risks and impacts of plastic pollution",
+            "national focal points for information coordination",
+            "online clearinghouse managed by the secretariat",
+            "protection of confidential information",
+            "research, technologies and innovation exchange",
+            "sharing scientific, traditional and indigenous knowledge",
+            "use of existing platforms and networks"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "information exchange",
+                "key_elements": [
+                    "research, technologies and innovation exchange",
+                    "use of existing platforms and networks",
+                    "national focal points for information coordination",
+                    "protection of confidential information",
+                    "information on risks and impacts of plastic pollution",
+                    "exchange of best practices and policy knowledge",
+                    "sharing scientific, traditional and indigenous knowledge",
+                    "online clearinghouse managed by the secretariat"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "public information, awareness, education and research",
+        "key_elements": [
+            "access to information and knowledge",
+            "capacity-building and multi-level training",
+            "inclusion of traditional and local knowledge",
+            "public awareness and environmental education",
+            "scientific research and data monitoring",
+            "standardized monitoring methods and approaches"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "public information",
+                "key_elements": [
+                    "access to information and knowledge",
+                    "scientific research and data monitoring",
+                    "public awareness and environmental education",
+                    "capacity-building and multi-level training",
+                    "standardized monitoring methods and approaches",
+                    "inclusion of traditional and local knowledge"
+                ]
+            },
+            {
+                "subcategory": "awareness-raising",
+                "key_elements": [
+                    "access to information and knowledge",
+                    "scientific research and data monitoring",
+                    "public awareness and environmental education",
+                    "capacity-building and multi-level training",
+                    "standardized monitoring methods and approaches",
+                    "inclusion of traditional and local knowledge"
+                ]
+            },
+            {
+                "subcategory": "education and research",
+                "key_elements": [
+                    "access to information and knowledge",
+                    "scientific research and data monitoring",
+                    "public awareness and environmental education",
+                    "capacity-building and multi-level training",
+                    "standardized monitoring methods and approaches",
+                    "inclusion of traditional and local knowledge"
+                ]
+            },
+            {
+                "subcategory": "stakeholder engagement",
+                "key_elements": [
+                    "access to information and knowledge",
+                    "scientific research and data monitoring",
+                    "public awareness and environmental education",
+                    "capacity-building and multi-level training",
+                    "standardized monitoring methods and approaches",
+                    "inclusion of traditional and local knowledge"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "health",
+        "key_elements": [
+            "human health considerations"
+        ],
+        "subcategories": []
+    },
+    {
+        "category": "conference of the parties",
+        "key_elements": [
+            "conference of the parties \u2013 authority to establish subsidiary bodies",
+            "conference of the parties \u2013 engagement with international and non-state actors",
+            "conference of the parties \u2013 frequency and modalities of cop sessions",
+            "conference of the parties \u2013 mandate and governance functions of the cop",
+            "conference of the parties \u2013 observer participation and objection rules",
+            "conference of the parties \u2013 rules of procedure and decision-making at cop meetings"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "governing body",
+                "key_elements": [
+                    "conference of the parties \u2013 rules of procedure and decision-making at cop meetings",
+                    "conference of the parties \u2013 mandate and governance functions of the cop",
+                    "conference of the parties \u2013 frequency and modalities of cop sessions",
+                    "conference of the parties \u2013 observer participation and objection rules",
+                    "conference of the parties \u2013 authority to establish subsidiary bodies",
+                    "conference of the parties \u2013 engagement with international and non-state actors"
+                ]
+            },
+            {
+                "subcategory": "institutional arrangements",
+                "key_elements": [
+                    "annexes as integral part of the convention",
+                    "declarations by regional economic integration organizations",
+                    "establishment of scientific and technical subsidiary bodies",
+                    "conference of the parties \u2013 observer participation and objection rules",
+                    "effect of expiry or revocation on ongoing proceedings",
+                    "secretariat \u2013 functions and mandate",
+                    "conference of the parties \u2013 authority to establish subsidiary bodies",
+                    "role of the depositary in amendment communication",
+                    "conference of the parties \u2013 frequency and modalities of cop sessions",
+                    "reporting and documentation duties",
+                    "procedure for adoption and non-acceptance of new annexes",
+                    "voting rights of parties and organizations",
+                    "unep executive director as default secretariat",
+                    "duration and revocation of declarations",
+                    "conference of the parties \u2013 engagement with international and non-state actors",
+                    "conciliation procedures by conference of the parties",
+                    "declaration of compulsory arbitration and icj jurisdiction by parties",
+                    "cooperation and peaceful settlement of disputes",
+                    "coordination with other international bodies",
+                    "support for conference of the parties meetings and parties",
+                    "amendment of annexes follows same procedure as adoption",
+                    "procedure for amending the convention",
+                    "conference of the parties \u2013 rules of procedure and decision-making at cop meetings",
+                    "conference of the parties \u2013 mandate and governance functions of the cop",
+                    "scope of annexes limited to procedural and technical matters",
+                    "hosting and institutional arrangements",
+                    "special provisions for parties with declarations (art. 27)",
+                    "committees, panels, tors and working arrangements",
+                    "timeline and entry into force for amendments"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "subsidiary bodies",
+        "key_elements": [
+            "committees, panels, tors and working arrangements",
+            "establishment of scientific and technical subsidiary bodies"
+        ],
+        "subcategories": []
+    },
+    {
+        "category": "secretariat",
+        "key_elements": [
+            "coordination with other international bodies",
+            "hosting and institutional arrangements",
+            "reporting and documentation duties",
+            "secretariat \u2013 functions and mandate",
+            "support for conference of the parties meetings and parties",
+            "unep executive director as default secretariat"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "secretariat",
+                "key_elements": [
+                    "coordination with other international bodies",
+                    "support for conference of the parties meetings and parties",
+                    "reporting and documentation duties",
+                    "hosting and institutional arrangements",
+                    "secretariat \u2013 functions and mandate",
+                    "unep executive director as default secretariat"
+                ]
+            },
+            {
+                "subcategory": "institutional arrangements",
+                "key_elements": [
+                    "annexes as integral part of the convention",
+                    "declarations by regional economic integration organizations",
+                    "establishment of scientific and technical subsidiary bodies",
+                    "conference of the parties \u2013 observer participation and objection rules",
+                    "effect of expiry or revocation on ongoing proceedings",
+                    "secretariat \u2013 functions and mandate",
+                    "conference of the parties \u2013 authority to establish subsidiary bodies",
+                    "role of the depositary in amendment communication",
+                    "conference of the parties \u2013 frequency and modalities of cop sessions",
+                    "reporting and documentation duties",
+                    "procedure for adoption and non-acceptance of new annexes",
+                    "voting rights of parties and organizations",
+                    "unep executive director as default secretariat",
+                    "duration and revocation of declarations",
+                    "conference of the parties \u2013 engagement with international and non-state actors",
+                    "conciliation procedures by conference of the parties",
+                    "declaration of compulsory arbitration and icj jurisdiction by parties",
+                    "cooperation and peaceful settlement of disputes",
+                    "coordination with other international bodies",
+                    "support for conference of the parties meetings and parties",
+                    "amendment of annexes follows same procedure as adoption",
+                    "procedure for amending the convention",
+                    "conference of the parties \u2013 rules of procedure and decision-making at cop meetings",
+                    "conference of the parties \u2013 mandate and governance functions of the cop",
+                    "scope of annexes limited to procedural and technical matters",
+                    "hosting and institutional arrangements",
+                    "special provisions for parties with declarations (art. 27)",
+                    "committees, panels, tors and working arrangements",
+                    "timeline and entry into force for amendments"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "settlement of disputes",
+        "key_elements": [
+            "conciliation procedures by conference of the parties",
+            "cooperation and peaceful settlement of disputes",
+            "declaration of compulsory arbitration and icj jurisdiction by parties",
+            "declarations by regional economic integration organizations",
+            "duration and revocation of declarations",
+            "effect of expiry or revocation on ongoing proceedings"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "settlement of disputes",
+                "key_elements": [
+                    "declarations by regional economic integration organizations",
+                    "cooperation and peaceful settlement of disputes",
+                    "effect of expiry or revocation on ongoing proceedings",
+                    "duration and revocation of declarations",
+                    "conciliation procedures by conference of the parties",
+                    "declaration of compulsory arbitration and icj jurisdiction by parties"
+                ]
+            },
+            {
+                "subcategory": "institutional arrangements",
+                "key_elements": [
+                    "annexes as integral part of the convention",
+                    "declarations by regional economic integration organizations",
+                    "establishment of scientific and technical subsidiary bodies",
+                    "conference of the parties \u2013 observer participation and objection rules",
+                    "effect of expiry or revocation on ongoing proceedings",
+                    "secretariat \u2013 functions and mandate",
+                    "conference of the parties \u2013 authority to establish subsidiary bodies",
+                    "role of the depositary in amendment communication",
+                    "conference of the parties \u2013 frequency and modalities of cop sessions",
+                    "reporting and documentation duties",
+                    "procedure for adoption and non-acceptance of new annexes",
+                    "voting rights of parties and organizations",
+                    "unep executive director as default secretariat",
+                    "duration and revocation of declarations",
+                    "conference of the parties \u2013 engagement with international and non-state actors",
+                    "conciliation procedures by conference of the parties",
+                    "declaration of compulsory arbitration and icj jurisdiction by parties",
+                    "cooperation and peaceful settlement of disputes",
+                    "coordination with other international bodies",
+                    "support for conference of the parties meetings and parties",
+                    "amendment of annexes follows same procedure as adoption",
+                    "procedure for amending the convention",
+                    "conference of the parties \u2013 rules of procedure and decision-making at cop meetings",
+                    "conference of the parties \u2013 mandate and governance functions of the cop",
+                    "scope of annexes limited to procedural and technical matters",
+                    "hosting and institutional arrangements",
+                    "special provisions for parties with declarations (art. 27)",
+                    "committees, panels, tors and working arrangements",
+                    "timeline and entry into force for amendments"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "amendments to the convention",
+        "key_elements": [
+            "procedure for amending the convention",
+            "role of the depositary in amendment communication",
+            "timeline and entry into force for amendments"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "amendment",
+                "key_elements": [
+                    "timeline and entry into force for amendments",
+                    "role of the depositary in amendment communication",
+                    "procedure for amending the convention"
+                ]
+            },
+            {
+                "subcategory": "institutional arrangements",
+                "key_elements": [
+                    "annexes as integral part of the convention",
+                    "declarations by regional economic integration organizations",
+                    "establishment of scientific and technical subsidiary bodies",
+                    "conference of the parties \u2013 observer participation and objection rules",
+                    "effect of expiry or revocation on ongoing proceedings",
+                    "secretariat \u2013 functions and mandate",
+                    "conference of the parties \u2013 authority to establish subsidiary bodies",
+                    "role of the depositary in amendment communication",
+                    "conference of the parties \u2013 frequency and modalities of cop sessions",
+                    "reporting and documentation duties",
+                    "procedure for adoption and non-acceptance of new annexes",
+                    "voting rights of parties and organizations",
+                    "unep executive director as default secretariat",
+                    "duration and revocation of declarations",
+                    "conference of the parties \u2013 engagement with international and non-state actors",
+                    "conciliation procedures by conference of the parties",
+                    "declaration of compulsory arbitration and icj jurisdiction by parties",
+                    "cooperation and peaceful settlement of disputes",
+                    "coordination with other international bodies",
+                    "support for conference of the parties meetings and parties",
+                    "amendment of annexes follows same procedure as adoption",
+                    "procedure for amending the convention",
+                    "conference of the parties \u2013 rules of procedure and decision-making at cop meetings",
+                    "conference of the parties \u2013 mandate and governance functions of the cop",
+                    "scope of annexes limited to procedural and technical matters",
+                    "hosting and institutional arrangements",
+                    "special provisions for parties with declarations (art. 27)",
+                    "committees, panels, tors and working arrangements",
+                    "timeline and entry into force for amendments"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "adoption and amendment of annexes",
+        "key_elements": [
+            "amendment of annexes follows same procedure as adoption",
+            "annexes as integral part of the convention",
+            "procedure for adoption and non-acceptance of new annexes",
+            "scope of annexes limited to procedural and technical matters",
+            "special provisions for parties with declarations (art. 27)"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "final provisions",
+                "key_elements": [
+                    "annexes as integral part of the convention",
+                    "scope of annexes limited to procedural and technical matters",
+                    "special provisions for parties with declarations (art. 27)",
+                    "procedure for adoption and non-acceptance of new annexes",
+                    "amendment of annexes follows same procedure as adoption"
+                ]
+            },
+            {
+                "subcategory": "institutional arrangements",
+                "key_elements": [
+                    "annexes as integral part of the convention",
+                    "declarations by regional economic integration organizations",
+                    "establishment of scientific and technical subsidiary bodies",
+                    "conference of the parties \u2013 observer participation and objection rules",
+                    "effect of expiry or revocation on ongoing proceedings",
+                    "secretariat \u2013 functions and mandate",
+                    "conference of the parties \u2013 authority to establish subsidiary bodies",
+                    "role of the depositary in amendment communication",
+                    "conference of the parties \u2013 frequency and modalities of cop sessions",
+                    "reporting and documentation duties",
+                    "procedure for adoption and non-acceptance of new annexes",
+                    "voting rights of parties and organizations",
+                    "unep executive director as default secretariat",
+                    "duration and revocation of declarations",
+                    "conference of the parties \u2013 engagement with international and non-state actors",
+                    "conciliation procedures by conference of the parties",
+                    "declaration of compulsory arbitration and icj jurisdiction by parties",
+                    "cooperation and peaceful settlement of disputes",
+                    "coordination with other international bodies",
+                    "support for conference of the parties meetings and parties",
+                    "amendment of annexes follows same procedure as adoption",
+                    "procedure for amending the convention",
+                    "conference of the parties \u2013 rules of procedure and decision-making at cop meetings",
+                    "conference of the parties \u2013 mandate and governance functions of the cop",
+                    "scope of annexes limited to procedural and technical matters",
+                    "hosting and institutional arrangements",
+                    "special provisions for parties with declarations (art. 27)",
+                    "committees, panels, tors and working arrangements",
+                    "timeline and entry into force for amendments"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "right to vote",
+        "key_elements": [
+            "voting rights of parties and organizations"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "right to vote",
+                "key_elements": [
+                    "voting rights of parties and organizations"
+                ]
+            },
+            {
+                "subcategory": "institutional arrangements",
+                "key_elements": [
+                    "annexes as integral part of the convention",
+                    "declarations by regional economic integration organizations",
+                    "establishment of scientific and technical subsidiary bodies",
+                    "conference of the parties \u2013 observer participation and objection rules",
+                    "effect of expiry or revocation on ongoing proceedings",
+                    "secretariat \u2013 functions and mandate",
+                    "conference of the parties \u2013 authority to establish subsidiary bodies",
+                    "role of the depositary in amendment communication",
+                    "conference of the parties \u2013 frequency and modalities of cop sessions",
+                    "reporting and documentation duties",
+                    "procedure for adoption and non-acceptance of new annexes",
+                    "voting rights of parties and organizations",
+                    "unep executive director as default secretariat",
+                    "duration and revocation of declarations",
+                    "conference of the parties \u2013 engagement with international and non-state actors",
+                    "conciliation procedures by conference of the parties",
+                    "declaration of compulsory arbitration and icj jurisdiction by parties",
+                    "cooperation and peaceful settlement of disputes",
+                    "coordination with other international bodies",
+                    "support for conference of the parties meetings and parties",
+                    "amendment of annexes follows same procedure as adoption",
+                    "procedure for amending the convention",
+                    "conference of the parties \u2013 rules of procedure and decision-making at cop meetings",
+                    "conference of the parties \u2013 mandate and governance functions of the cop",
+                    "scope of annexes limited to procedural and technical matters",
+                    "hosting and institutional arrangements",
+                    "special provisions for parties with declarations (art. 27)",
+                    "committees, panels, tors and working arrangements",
+                    "timeline and entry into force for amendments"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "signature",
+        "key_elements": [
+            "locations and timeframe for signing the convention",
+            "opening of the convention for signature"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "signature",
+                "key_elements": [
+                    "opening of the convention for signature",
+                    "locations and timeframe for signing the convention"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "ratification, acceptance, approval or accession",
+        "key_elements": [
+            "conditional entry into force of additional annexes and amendments",
+            "declaration of competence",
+            "obligations of regional economic integration organizations",
+            "ratification, acceptance, approval, and accession"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "ratification, acceptance, approval or accession",
+                "key_elements": [
+                    "ratification, acceptance, approval, and accession",
+                    "conditional entry into force of additional annexes and amendments",
+                    "obligations of regional economic integration organizations",
+                    "declaration of competence"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "entry into force",
+        "key_elements": [
+            "conditions for entry into force of the convention",
+            "entry into force for later ratifiers"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "entry into force",
+                "key_elements": [
+                    "entry into force for later ratifiers",
+                    "conditions for entry into force of the convention"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "reservations",
+        "key_elements": [
+            "reservations - no reservations allowed"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "reservations",
+                "key_elements": [
+                    "reservations - no reservations allowed"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "withdrawal",
+        "key_elements": [
+            "withdrawal \u2013 possible after three years",
+            "withdrawal \u2013 takes effect one year after notification"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "withdrawal",
+                "key_elements": [
+                    "withdrawal \u2013 takes effect one year after notification",
+                    "withdrawal \u2013 possible after three years"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "depositary",
+        "key_elements": [
+            "depositary \u2013 un secretary-general"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "depositary",
+                "key_elements": [
+                    "depositary \u2013 un secretary-general"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "authentic texts",
+        "key_elements": [
+            "authentic texts \u2013 equal authenticity of six official un languages"
+        ],
+        "subcategories": [
+            {
+                "subcategory": "authentic texts",
+                "key_elements": [
+                    "authentic texts \u2013 equal authenticity of six official un languages"
+                ]
+            }
+        ]
+    }
+]

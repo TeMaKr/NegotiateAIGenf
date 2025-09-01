@@ -1,0 +1,1496 @@
+{
+  "version_name": "compilation_text",
+  "document_title": "Compilation text - international legally binding instrument on plastic pollution, including in the marine environment",
+  "structure_type": "parts",
+  "structure": [
+    { "type": "part", "title": "Part I", "level": 0 },
+    {
+      "type": "article",
+      "id": "preamble",
+      "level": 1,
+      "number": "1.",
+      "title": "Preamble"
+    },
+    {
+      "type": "article",
+      "id": "objective",
+      "level": 1,
+      "number": "2.",
+      "title": "Objective"
+    },
+    {
+      "type": "article",
+      "id": "definitions",
+      "level": 1,
+      "number": "3.",
+      "title": "Definitions"
+    },
+    {
+      "type": "article",
+      "id": "principles",
+      "level": 1,
+      "number": "4.",
+      "title": "Principles [and approaches]"
+    },
+    {
+      "type": "article",
+      "id": "scope",
+      "level": 1,
+      "number": "5.",
+      "title": "Scope"
+    },
+
+    { "type": "part", "title": "Part II", "level": 0 },
+    {
+      "type": "article",
+      "id": "primary_plastic_polymers",
+      "level": 1,
+      "number": "1.",
+      "title": "[Primary [and secondary] plastic polymers]"
+    },
+    {
+      "type": "article",
+      "id": "chemicals_and_polymers_of_concern",
+      "level": 1,
+      "number": "2.",
+      "title": "[Cooperation and coordination with relevant MEAs on] [[Chemicals [and polymers] [of concern [in plastics and plastic products] of concern]"
+    },
+    {
+      "type": "article",
+      "id": "problematic_and_avoidable_plastic_products_a",
+      "level": 1,
+      "number": "3.",
+      "title": "[Problematic [plastic products] and avoidable plastic products] [and groups of such products]] [[including] [short-lived] and single-use plastic products] [[and [microplastics or their own and] [products containing] intentionally added] microplastics]][[In plastics and plastic products]] [proposed placement: move to II.5]"
+    },
+    {
+      "type": "article",
+      "id": "problematic_and_avoidable_plastic_products_b",
+      "level": 2,
+      "number": "a.",
+      "title": "[Problematic [plastic products] and avoidable plastic products] [and groups of such products]] [[including] [short-lived] and single-use plastic products]"
+    },
+    {
+      "type": "article",
+      "id": "intentionally_added_microplastics",
+      "level": 2,
+      "number": "b.",
+      "title": "[Products containing] [Microplastics on their own and] Intentionally added microplastics [in plastics and plastic products] (proposed placement: merge 3a and 3b)"
+    },
+    {
+      "type": "article",
+      "id": "listing_product",
+      "level": 1,
+      "number": "3bis.",
+      "title": "Listing a product in Part II of Annex B [Problematic and avoidable plastic products] or Part III of Annex B [Problematic plastic products]"
+    },
+    {
+      "type": "article",
+      "id": "products_containing_microplastics",
+      "level": 2,
+      "number": "a.",
+      "title": "[Recognizing [listing] Microplastics on their own and] Intentionally added microplastics [[in plastics and plastic products] [proposed placement: merge with 3]"
+    },
+    {
+      "type": "article",
+      "id": "micro_and_nanoplastics",
+      "level": 2,
+      "number": "b.",
+      "title": "[3 bis alt] Micro- and [nanoplastics]] [proposed placement: move to Provision 8] [Exemptions available to a Party upon request]"
+    },
+    {
+      "type": "article",
+      "id": "exemptions",
+      "level": 1,
+      "number": "4.",
+      "title": "Exemptions available to a Party upon request"
+    },
+    {
+      "type": "article",
+      "id": "dedicated_programmes_of_work",
+      "level": 1,
+      "number": "4bis.",
+      "title": "Dedicated programmes of work"
+    },
+    {
+      "type": "article",
+      "id": "product_design_a",
+      "level": 1,
+      "number": "5.",
+      "title": "Product design, composition and performance"
+    },
+    {
+      "type": "article",
+      "id": "product_design_b",
+      "level": 2,
+      "number": "a.",
+      "title": "[Product design and] performance"
+    },
+    {
+      "type": "article",
+      "id": "product_design_c",
+      "level": 2,
+      "number": "b.",
+      "title": "[Reduce,] [reuse], [and] [recycling,] refill and repair [repurposing and refurbishability] of plastics and][Circularity approaches for] plastic products"
+    },
+    {
+      "type": "article",
+      "id": "product_design_d",
+      "level": 2,
+      "number": "c.",
+      "title": "Use of recycled plastic content"
+    },
+    {
+      "type": "article",
+      "id": "product_design_e",
+      "level": 2,
+      "number": "d.",
+      "title": "[Alternative plastics and plastic products]"
+    },
+    {
+      "type": "article",
+      "id": "non_plastic_substitutes",
+      "level": 1,
+      "number": "6.",
+      "title": "Non-plastic substitutes"
+    },
+    {
+      "type": "article",
+      "id": "extended_producer_responsibility",
+      "level": 1,
+      "number": "7.",
+      "title": "[Extended] producer responsibility"
+    },
+    {
+      "type": "article",
+      "id": "emissions_and_releases",
+      "level": 1,
+      "number": "8.",
+      "title": "Emissions and releases of plastic throughout its life cycle"
+    },
+    {
+      "type": "article",
+      "id": "waste_management_a",
+      "level": 1,
+      "number": "9.",
+      "title": "Waste management"
+    },
+    {
+      "type": "article",
+      "id": "waste_management_b",
+      "level": 2,
+      "number": "a.",
+      "title": "[[Plastic] Waste management]"
+    },
+    {
+      "type": "article",
+      "id": "fishing_gear",
+      "level": 1,
+      "number": "XX.",
+      "title": "Fishing gear"
+    },
+    {
+      "type": "article",
+      "id": "traded_in_listed_chemicals_a",
+      "level": 1,
+      "number": "10.",
+      "title": "Trade [in listed chemicals, polymers] and products, and in plastic waste] [related measures]"
+    },
+    {
+      "type": "article",
+      "id": "traded_in_listed_chemicals_b",
+      "level": 2,
+      "number": "a.",
+      "title": "Trade in listed chemicals, polymers and products"
+    },
+    {
+      "type": "article",
+      "id": "traded_in_listed_chemicals_c",
+      "level": 2,
+      "number": "b.",
+      "title": "Transboundary movement of [non-hazardous] plastic waste"
+    },
+    {
+      "type": "article",
+      "id": "existing_plastic_pollution",
+      "level": 1,
+      "number": "11.",
+      "title": "Existing plastic pollution, including in the marine environment"
+    },
+    {
+      "type": "article",
+      "id": "just_transition",
+      "level": 1,
+      "number": "12.",
+      "title": "Just transition"
+    },
+    {
+      "type": "article",
+      "id": "transparency_tracking",
+      "level": 1,
+      "number": "13.",
+      "title": "Transparency, tracking, monitoring and labelling"
+    },
+    {
+      "type": "article",
+      "id": "overarching_provision",
+      "level": 1,
+      "number": "13bis.",
+      "title": "Overarching provision related to Part II"
+    },
+
+    { "type": "part", "title": "Part III", "level": 0 },
+    {
+      "type": "article",
+      "id": "financing",
+      "level": 1,
+      "number": "1.",
+      "title": "Financing [mechanism [and resources]]"
+    },
+    {
+      "type": "article",
+      "id": "capacity_technical",
+      "level": 1,
+      "number": "2.",
+      "title": "Capacity-building, technical assistance and technology transfer"
+    },
+    {
+      "type": "article",
+      "id": "technology_transfer",
+      "level": 1,
+      "number": "[3.]",
+      "title": "Technology [transfer]"
+    },
+
+    { "type": "part", "title": "Part IV", "level": 0 },
+    {
+      "type": "article",
+      "id": "national_plans",
+      "level": 1,
+      "number": "1.",
+      "title": "National [Action] [Implementation] Plans"
+    },
+    {
+      "type": "article",
+      "id": "implementation_compliance",
+      "level": 1,
+      "number": "2.",
+      "title": "Implementation [and] [compliance] [and cooperation]"
+    },
+    {
+      "type": "article",
+      "id": "reporting_on_progress",
+      "level": 1,
+      "number": "3.",
+      "title": "Reporting on progress [of implementation]"
+    },
+    {
+      "type": "article",
+      "id": "periodic_assessment",
+      "level": 1,
+      "number": "4.",
+      "title": "Periodic assessment and monitoring of the progress of implementation of the instrument* [and effectiveness evaluation]"
+    },
+    {
+      "type": "article",
+      "id": "assessment_monitoring",
+      "level": 2,
+      "number": "a.",
+      "title": "[Assessment and monitoring"
+    },
+    {
+      "type": "article",
+      "id": "effectiveness_evaluation",
+      "level": 2,
+      "number": "b.]",
+      "title": "[Effectiveness [Effectiveness evaluation] [Progress assessment]"
+    },
+    {
+      "type": "article",
+      "id": "review_of_chemicals",
+      "level": 2,
+      "number": "[b][c.]",
+      "title": "Review of [hazardous] chemicals [and polymers] of concern, microplastics and problematic and avoidable products [and non-plastic substitutes]"
+    },
+    {
+      "type": "article",
+      "id": "international_cooperation",
+      "level": 1,
+      "number": "5.",
+      "title": "International cooperation"
+    },
+    {
+      "type": "article",
+      "id": "information_exchange",
+      "level": 1,
+      "number": "6.",
+      "title": "Information exchange"
+    },
+    {
+      "type": "article",
+      "id": "awareness_education",
+      "level": 1,
+      "number": "7.",
+      "title": "Awareness-raising, education and research [and development]"
+    },
+    {
+      "type": "article",
+      "id": "stakeholder_engagement",
+      "level": 1,
+      "number": "8.",
+      "title": "[Partner and] Stakeholder engagement"
+    },
+    {
+      "type": "article",
+      "id": "health",
+      "level": 1,
+      "number": "8bis.",
+      "title": "Health aspects"
+    },
+
+    { "type": "part", "title": "Part V", "level": 0 },
+    {
+      "type": "article",
+      "id": "governing",
+      "level": 1,
+      "number": "1.",
+      "title": "Governing body"
+    },
+    {
+      "type": "article",
+      "id": "subsidiary_bodies",
+      "level": 1,
+      "number": "2.",
+      "title": "Subsidiary bodies"
+    },
+    {
+      "type": "article",
+      "id": "secretariat",
+      "level": 1,
+      "number": "3.",
+      "title": "Secretariat"
+    },
+
+    { "type": "part", "title": "Part VI Final provisions", "level": 0 },
+    {
+      "type": "article",
+      "id": "settlement_disputes",
+      "level": 1,
+      "number": "1.",
+      "title": "Settlement of disputes"
+    },
+    {
+      "type": "article",
+      "id": "amendments",
+      "level": 1,
+      "number": "2.",
+      "title": "Amendments to the instrument*"
+    },
+    {
+      "type": "article",
+      "id": "adoption_amendment",
+      "level": 1,
+      "number": "3.",
+      "title": "Adoption and amendment of annexes"
+    },
+    {
+      "type": "article",
+      "id": "right_to_vote",
+      "level": 1,
+      "number": "4.",
+      "title": "Right to vote"
+    },
+    {
+      "type": "article",
+      "id": "signature",
+      "level": 1,
+      "number": "5.",
+      "title": "Signature"
+    },
+    {
+      "type": "article",
+      "id": "ratification",
+      "level": 1,
+      "number": "6.",
+      "title": "Ratification, acceptance, approval or accession"
+    },
+    {
+      "type": "article",
+      "id": "entry_into_force",
+      "level": 1,
+      "number": "7.",
+      "title": "Entry into force"
+    },
+    {
+      "type": "article",
+      "id": "reservations",
+      "level": 1,
+      "number": "8.",
+      "title": "Reservations"
+    },
+    {
+      "type": "article",
+      "id": "withdrawal",
+      "level": 1,
+      "number": "9.",
+      "title": "Withdrawal"
+    },
+    {
+      "type": "article",
+      "id": "depositary",
+      "level": 1,
+      "number": "10.",
+      "title": "Depositary"
+    },
+    {
+      "type": "article",
+      "id": "authentic_texts",
+      "level": 1,
+      "number": "11.",
+      "title": "Authentic texts"
+    }
+  ],
+  "articles": {
+    "preamble": {
+      "status": ["settled"],
+      "content": "Preamble",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled, modified",
+          "same",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "objective": {
+      "status": ["settled"],
+      "content": "Objective",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "definitions": {
+      "status": ["settled"],
+      "content": "Definitions (placeholder)",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled, modified",
+          "same",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "principles": {
+      "status": ["contested"],
+      "content": "Principles [and approaches]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled, modified",
+          "contested, modified",
+          "same"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "scope": {
+      "status": ["settled"],
+      "content": "Scope",
+      "brackets": false,
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled, modified",
+          "same",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "primary_plastic_polymers": {
+      "status": ["contested"],
+      "content": "[Primary [and secondary] plastic polymers]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "chemicals_and_polymers_of_concern": {
+      "status": ["contested"],
+      "content": "[Cooperation and coordination with relevant MEAs on] [[Chemicals [and polymers] [of concern [in plastics and plastic products] of concern]. Alt title: Hazardous chemicals [in plastics and plastic products] of concern]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "problematic_and_avoidable_plastic_products_a": {
+      "status": ["contested"],
+      "content": "[Problematic [plastic products] and avoidable plastic products] [and groups of such products]] [[including] [short-lived] and single-use plastic products] [[and [microplastics or their own and] [products containing] intentionally added] microplastics]][[In plastics and plastic products]] [proposed placement: move to II.5]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "problematic_and_avoidable_plastic_products_b": {
+      "status": ["contested"],
+      "content": "[[Problematic [plastic products] and avoidable plastic products] [[and groups of such products], [[including] [short-lived] and single-use plastic products]]]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "intentionally_added_microplastics": {
+      "status": ["contested"],
+      "content": "[Products containing] [Microplastics on their own and] Intentionally added microplastics [in plastics and plastic products] (proposed placement: merge 3a and 3b)",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "contested, modified",
+          "merged"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "listing_product": {
+      "status": ["settled"],
+      "content": "Listing a product in Part II of Annex B [Problematic and avoidable plastic products] or Part III of Annex B [Problematic plastic products]",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "products_containing_microplastics": {
+      "status": ["contested"],
+      "content": "[Products containing] [Microplastics on their own and] Intentionally added microplastics [in plastics and plastic products] (proposed placement: merge 3a and 3b)",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "micro_and_nanoplastics": {
+      "status": ["contested"],
+      "content": "[3 bis alt] Micro- and [nanoplastics]] [proposed placement: move to Provision 8] [Exemptions available to a Party upon request]",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "original",
+          "contested, modified",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "exemptions": {
+      "status": ["contested"],
+      "content": "Exemptions available to a Party upon request",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "dedicated_programmes_of_work": {
+      "status": ["contested"],
+      "content": "Dedicated programmes of work",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "original",
+          "contested, modified",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "product_design_a": {
+      "status": ["contested"],
+      "content": "Product design, composition and performance",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "product_design_b": {
+      "status": ["contested"],
+      "content": "[Product design and] performance",
+      "evolution": {
+        "status_progression": ["original", "contested", "same", "merged"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "product_design_c": {
+      "status": ["contested"],
+      "content": "[Reduce,] [reuse], [and] [recycling,] refill and repair [repurposing and refurbishability] of plastics and][Circularity approaches for] plastic products",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "contested, modified",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "product_design_d": {
+      "status": ["settled"],
+      "content": "Use of recycled plastic content",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "product_design_e": {
+      "status": ["contested"],
+      "content": "[Alternative plastics and plastic products]",
+      "evolution": {
+        "status_progression": ["original", "same", "contested", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "non_plastic_substitutes": {
+      "status": ["settled"],
+      "content": "Non-plastic substitutes",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "extended_producer_responsibility": {
+      "status": ["contested"],
+      "content": "[Extended] producer responsibility",
+      "evolution": {
+        "status_progression": ["original", "same", "contested", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "emissions_and_releases": {
+      "status": ["settled"],
+      "content": "Emissions and releases of plastic throughout its life cycle",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "waste_management_a": {
+      "status": ["settled"],
+      "content": "Waste management",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "waste_management_b": {
+      "status": ["contested"],
+      "content": "[[Plastic] Waste management]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested",
+          "contested, modified",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "fishing_gear": {
+      "status": ["contested"],
+      "content": "Fishing gear",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested",
+          "contested, modified",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "traded_in_listed_chemicals_a": {
+      "status": ["contested"],
+      "content": "Trade [in listed chemicals, polymers] and products, and in plastic waste] [related measures]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "traded_in_listed_chemicals_b": {
+      "status": ["settled"],
+      "content": "Trade in listed chemicals, polymers and products",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "traded_in_listed_chemicals_c": {
+      "status": ["contested"],
+      "content": "Transboundary movement of [non-hazardous] plastic waste",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "existing_plastic_pollution": {
+      "status": ["settled"],
+      "content": "Existing plastic pollution, including in the marine environment",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "just_transition": {
+      "status": ["contested"],
+      "content": "Just transition [pathways]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "transparency_tracking": {
+      "status": ["settled"],
+      "content": "Transparency, tracking, monitoring and labelling",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "overarching_provision": {
+      "status": ["contested"],
+      "content": "Overarching provision related to Part II",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "original",
+          "contested",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "financing": {
+      "status": ["contested"],
+      "content": "Financing [mechanism [and resources]]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "capacity_technical": {
+      "status": ["contested"],
+      "content": "Capacity-building, technical assistance and technology transfer. Alt title: Capacity-building, technical and scientific cooperation, technology transfer. Alt title 2: Capacity-building and technical assistance",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "technology_transfer": {
+      "status": ["contested"],
+      "content": "Technology [transfer]",
+      "evolution": {
+        "status_progression": ["not_existing", "original", "same", "merged"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "national_plans": {
+      "status": ["contested"],
+      "content": "National [Action] [Implementation] Plans",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "implementation_compliance": {
+      "status": ["contested"],
+      "content": "Implementation [and] [compliance] [and cooperation]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "reporting_on_progress": {
+      "status": ["contested"],
+      "content": "Reporting on progress [of implementation]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "periodic_assessment": {
+      "status": ["contested"],
+      "content": "Periodic assessment and monitoring of the progress of implementation of the instrument* [and effectiveness evaluation]",
+      "evolution": {
+        "status_progression": ["original", "contested", "same", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "assessment_monitoring": {
+      "status": ["contested"],
+      "content": "[Assessment and monitoring",
+      "evolution": {
+        "status_progression": ["not_existing", "original", "same", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "effectiveness_evaluation": {
+      "status": ["contested"],
+      "content": "[Effectiveness [Effectiveness evaluation] [Progress assessment]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "review_of_chemicals": {
+      "status": ["contested"],
+      "content": "Review of [hazardous] chemicals [and polymers] of concern, microplastics and problematic and avoidable products [and non-plastic substitutes]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "international_cooperation": {
+      "status": ["settled"],
+      "content": "International cooperation",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "removed"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "information_exchange": {
+      "status": ["settled"],
+      "content": "Information exchange",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "awareness_education": {
+      "status": ["contested"],
+      "content": "Awareness-raising, education and research [and development]",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "stakeholder_engagement": {
+      "status": ["contested"],
+      "content": "[Partner and] Stakeholder engagement",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "removed"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "health": {
+      "status": ["settled"],
+      "content": "Health aspects",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "original",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "governing": {
+      "status": ["settled"],
+      "content": "Governing body",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "subsidiary_bodies": {
+      "status": ["settled"],
+      "content": "Subsidiary bodies",
+      "evolution": {
+        "status_progression": ["original", "settled", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "secretariat": {
+      "status": ["settled"],
+      "content": "Secretariat",
+      "evolution": {
+        "status_progression": ["original", "settled", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "settlement_disputes": {
+      "status": ["settled"],
+      "content": "Settlement of disputes",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "amendments": {
+      "status": ["settled"],
+      "content": "Amendments to the instrument*",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "adoption_amendment": {
+      "status": ["settled"],
+      "content": "Adoption and amendment of annexes",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "right_to_vote": {
+      "status": ["settled"],
+      "content": "Right to vote",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "signature": {
+      "status": ["settled"],
+      "content": "Signature",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "ratification": {
+      "status": ["settled"],
+      "content": "Ratification, acceptance, approval or accession",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "entry_into_force": {
+      "status": ["settled"],
+      "content": "Entry into force",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "reservations": {
+      "status": ["settled"],
+      "content": "Reservations",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "withdrawal": {
+      "status": ["settled"],
+      "content": "Withdrawal",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "depositary": {
+      "status": ["settled"],
+      "content": "Depositary",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "authentic_texts": {
+      "status": ["settled"],
+      "content": "Authentic texts",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    }
+  }
+}

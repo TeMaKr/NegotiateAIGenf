@@ -1,0 +1,245 @@
+[
+  {
+    "article": "article 0",
+    "category": "preamble",
+    "subcategories": ["preamble"]
+  },
+  {
+    "article": "article 01",
+    "category": "objective",
+    "subcategories": ["objective", "scope"]
+  },
+  {
+    "article": "article 01bis",
+    "category": "principles and approaches",
+    "subcategories": [
+      "principles",
+      "trade in listed chemicals, polymers and products",
+      "trade in listed chemicals, polymers and products, and in plastic waste"
+    ]
+  },
+  {
+    "article": "article 02",
+    "category": "definitions",
+    "subcategories": ["definition"]
+  },
+  {
+    "article": "article 03",
+    "category": "plastic products",
+    "subcategories": [
+      "alternative plastics and plastic products",
+      "chemicals and polymers of concern",
+      "micro- and nanoplastics",
+      "problematic and avoidable plastic products, including short-lived and single-use plastic products and intentionally added microplastics",
+      "problematic and avoidable plastic products, including short-lived and single-use plastic products",
+      "intentionally added microplastics",
+      "plastic products and chemicals of concern as used in plastic products",
+      "trade in listed chemicals, polymers and products",
+      "trade in listed chemicals, polymers and products, and in plastic waste",
+      "review of chemicals and polymers of concern, microplastics and problematic and avoidable products",
+      "transparency, tracking, monitoring and labeling"
+    ]
+  },
+  {
+    "article": "article 04",
+    "category": "exemptions",
+    "subcategories": [
+      "exemptions available to a party upon request",
+      "dedicated programmes of work"
+    ]
+  },
+  {
+    "article": "article 05",
+    "category": "plastic product design",
+    "subcategories": [
+      "product design, composition and performance",
+      "product design and performance",
+      "product design",
+      "transparency, tracking, monitoring and labeling",
+      "reduce, reuse, refill and repair of plastics and plastic products",
+      "use of recycled plastic contents",
+      "non-plastic substitutes",
+      "micro- and nanoplastics",
+      "trade in listed chemicals, polymers and products",
+      "trade in listed chemicals, polymers and products, and in plastic waste"
+    ]
+  },
+  {
+    "article": "article 06",
+    "category": "[supply][sustainable production]",
+    "subcategories": [
+      "supply, sustainable production",
+      "primary plastic polymers"
+    ]
+  },
+  {
+    "article": "article 07",
+    "category": "releases and leakages",
+    "subcategories": [
+      "emissions and releases of plastic throughout its life cycle",
+      "fishing gear",
+      "releases and leakages",
+      "micro- and nanoplastics",
+      "overarching provision related to part ii"
+    ]
+  },
+  {
+    "article": "article 08",
+    "category": "plastic waste management",
+    "subcategories": [
+      "plastic waste management",
+      "transboundary movement of plastic waste",
+      "extended producer responsibility",
+      "fishing gear",
+      "waste management",
+      "transparency, tracking, monitoring and labeling"
+    ]
+  },
+  {
+    "article": "article 09",
+    "category": "existing plastic pollution",
+    "subcategories": [
+      "existing plastic pollution, including in the marine environment",
+      "Existing plastic pollution",
+      "transparency, tracking, monitoring and labeling"
+    ]
+  },
+  {
+    "article": "article 10",
+    "category": "just transition",
+    "subcategories": ["just transition"]
+  },
+  {
+    "article": "article 11",
+    "category": "financial [resources and] mechanism",
+    "subcategories": ["financing", "extended producer responsibility"]
+  },
+  {
+    "article": "article 12",
+    "category": "capacity building, technical assistance and technology transfer, including international cooperation",
+    "subcategories": [
+      "capacity-building, technical assistance and technology transfer",
+      "international cooperation",
+      "technology transfer"
+    ]
+  },
+  {
+    "article": "article 13",
+    "category": "implementation and compliance",
+    "subcategories": ["implementation and compliance"]
+  },
+  {
+    "article": "article 14",
+    "category": "national plans",
+    "subcategories": ["national plans"]
+  },
+  {
+    "article": "article 15",
+    "category": "reporting",
+    "subcategories": ["reporting on progress"]
+  },
+  {
+    "article": "article 16",
+    "category": "effectiveness evaluation",
+    "subcategories": [
+      "assessment and monitoring",
+      "effectiveness evaluation",
+      "periodic assessment and monitoring of the progress of implementation of the instrument and effectiveness evaluation"
+    ]
+  },
+  {
+    "article": "article 17",
+    "category": "information exchange",
+    "subcategories": ["information exchange"]
+  },
+  {
+    "article": "article 18",
+    "category": "public information, awareness, education and research",
+    "subcategories": [
+      "awareness-raising",
+      "education and research",
+      "stakeholder engagement",
+      "awareness-raising, education and research"
+    ]
+  },
+  {
+    "article": "article 19",
+    "category": "health",
+    "subcategories": ["health aspects"]
+  },
+  {
+    "article": "article 20",
+    "category": "conference of the parties",
+    "subcategories": ["governing body", "institutional arrangements"]
+  },
+  {
+    "article": "article 20bis",
+    "category": "subsidiary bodies",
+    "subcategories": [
+      "subsidiary bodies",
+      "sub-group",
+      "institutional arrangements"
+    ]
+  },
+  {
+    "article": "article 21",
+    "category": "secretariat",
+    "subcategories": ["secretariat", "institutional arrangements"]
+  },
+  {
+    "article": "article 22",
+    "category": "settlement of disputes",
+    "subcategories": ["settlement of disputes", "institutional arrangements"]
+  },
+  {
+    "article": "article 23",
+    "category": "amendments to the convention",
+    "subcategories": ["amendment", "institutional arrangements"]
+  },
+  {
+    "article": "article 24",
+    "category": "adoption and amendment of annexes",
+    "subcategories": ["final provisions", "institutional arrangements"]
+  },
+  {
+    "article": "article 25",
+    "category": "right to vote",
+    "subcategories": ["right to vote", "institutional arrangements"]
+  },
+  {
+    "article": "article 26",
+    "category": "signature",
+    "subcategories": ["signature"]
+  },
+  {
+    "article": "article 27",
+    "category": "ratification, acceptance, approval or accession",
+    "subcategories": ["ratification, acceptance, approval or accession"]
+  },
+  {
+    "article": "article 28",
+    "category": "entry into force",
+    "subcategories": ["entry into force"]
+  },
+  {
+    "article": "article 29",
+    "category": "reservations",
+    "subcategories": ["reservations"]
+  },
+  {
+    "article": "article 30",
+    "category": "withdrawal",
+    "subcategories": ["withdrawal"]
+  },
+  {
+    "article": "article 31",
+    "category": "depositary",
+    "subcategories": ["depositary"]
+  },
+  {
+    "article": "article 32",
+    "category": "authentic texts",
+    "subcategories": ["authentic texts"]
+  },
+  { "article": "article x", "category": "other/uncategorized", "subcategories": []}
+]

@@ -1,0 +1,866 @@
+{
+  "version_name": "chairs_text",
+  "document_title": "Chair's Text - International legally binding instrument on plastic pollution, including in the marine environment",
+  "date": "1 December 2024",
+  "structure_type": "articles",
+  "structure": [
+    {
+      "type": "article",
+      "id": "preamble",
+      "level": 0,
+      "number": "",
+      "title": "[PREAMBLE"
+    },
+    {
+      "type": "article",
+      "id": "objective",
+      "level": 0,
+      "number": "ARTICLE 1",
+      "title": "OBJECTIVE"
+    },
+    {
+      "type": "article",
+      "id": "principles",
+      "level": 0,
+      "number": "ARTICLE 1bis",
+      "title": "PRINCIPLES AND APPROACHES"
+    },
+    {
+      "type": "article",
+      "id": "definitions",
+      "level": 0,
+      "number": "ARTICLE 2",
+      "title": "DEFINITIONS"
+    },
+    {
+      "type": "article",
+      "id": "problematic_and_avoidable_plastic_products_a",
+      "level": 0,
+      "number": "[ARTICLE 3",
+      "title": "[PLASTIC PRODUCTS"
+    },
+    {
+      "type": "article",
+      "id": "exemptions",
+      "level": 0,
+      "number": "ARTICLE 4",
+      "title": "EXEMPTIONS"
+    },
+    {
+      "type": "article",
+      "id": "product_design_a",
+      "level": 0,
+      "number": "ARTICLE 5",
+      "title": "PLASTIC PRODUCT DESIGN"
+    },
+    {
+      "type": "article",
+      "id": "supply",
+      "level": 0,
+      "number": "ARTICLE 6",
+      "title": "[SUPPLY][SUSTAINABLE PRODUCTION]"
+    },
+    {
+      "type": "article",
+      "id": "emissions_and_releases",
+      "level": 0,
+      "number": "ARTICLE 7",
+      "title": "RELEASES AND LEAKAGES"
+    },
+    {
+      "type": "article",
+      "id": "waste_management_a",
+      "level": 0,
+      "number": "ARTICLE 8",
+      "title": "PLASTIC WASTE MANAGEMENT"
+    },
+    {
+      "type": "article",
+      "id": "existing_plastic_pollution",
+      "level": 0,
+      "number": "ARTICLE 9",
+      "title": "EXISTING PLASTIC POLLUTION"
+    },
+    {
+      "type": "article",
+      "id": "just_transition",
+      "level": 0,
+      "number": "ARTICLE 10",
+      "title": "JUST TRANSITION"
+    },
+    {
+      "type": "article",
+      "id": "financing",
+      "level": 0,
+      "number": "ARTICLE 11",
+      "title": "FINANCIAL [RESOURCES AND] MECHANISM"
+    },
+    {
+      "type": "article",
+      "id": "capacity_technical",
+      "level": 0,
+      "number": "ARTICLE 12",
+      "title": "CAPACITY BUILDING, TECHNICAL ASSISTANCE AND TECHNOLOGY TRANSFER, INCLUDING INTERNATIONAL COOPERATION"
+    },
+    {
+      "type": "article",
+      "id": "implementation_compliance",
+      "level": 0,
+      "number": "ARTICLE 13",
+      "title": "IMPLEMENTATION AND COMPLIANCE"
+    },
+    {
+      "type": "article",
+      "id": "national_plans",
+      "level": 0,
+      "number": "ARTICLE 14",
+      "title": "NATIONAL PLANS"
+    },
+    {
+      "type": "article",
+      "id": "reporting_on_progress",
+      "level": 0,
+      "number": "ARTICLE 15",
+      "title": "REPORTING"
+    },
+    {
+      "type": "article",
+      "id": "effectiveness_evaluation",
+      "level": 0,
+      "number": "ARTICLE 16",
+      "title": "EFFECTIVENESS EVALUATION"
+    },
+    {
+      "type": "article",
+      "id": "information_exchange",
+      "level": 0,
+      "number": "ARTICLE 17",
+      "title": "INFORMATION EXCHANGE"
+    },
+    {
+      "type": "article",
+      "id": "awareness_education",
+      "level": 0,
+      "number": "ARTICLE 18",
+      "title": "PUBLIC INFORMATION, AWARENESS, EDUCATION AND RESEARCH"
+    },
+    {
+      "type": "article",
+      "id": "health",
+      "level": 0,
+      "number": "ARTICLE 19",
+      "title": "HEALTH"
+    },
+    {
+      "type": "article",
+      "id": "governing",
+      "level": 0,
+      "number": "ARTICLE 20",
+      "title": "CONFERENCE OF THE PARTIES"
+    },
+    {
+      "type": "article",
+      "id": "subsidiary_bodies",
+      "level": 0,
+      "number": "ARTICLE 20 bis",
+      "title": "SUBSIDIARY BODIES"
+    },
+    {
+      "type": "article",
+      "id": "secretariat",
+      "level": 0,
+      "number": "ARTICLE 21",
+      "title": "SECRETARIAT"
+    },
+    {
+      "type": "article",
+      "id": "settlement_disputes",
+      "level": 0,
+      "number": "ARTICLE 22",
+      "title": "SETTLEMENT OF DISPUTES"
+    },
+    {
+      "type": "article",
+      "id": "amendments",
+      "level": 0,
+      "number": "ARTICLE 23",
+      "title": "AMENDMENTS TO THE CONVENTION"
+    },
+    {
+      "type": "article",
+      "id": "adoption_amendment",
+      "level": 0,
+      "number": "[ARTICLE 24",
+      "title": "[ADOPTION AND AMENDMENT OF ANNEXES"
+    },
+    {
+      "type": "article",
+      "id": "right_to_vote",
+      "level": 0,
+      "number": "ARTICLE 25",
+      "title": "RIGHT TO VOTE"
+    },
+    {
+      "type": "article",
+      "id": "signature",
+      "level": 0,
+      "number": "ARTICLE 26",
+      "title": "SIGNATURE"
+    },
+    {
+      "type": "article",
+      "id": "ratification",
+      "level": 0,
+      "number": "ARTICLE 27",
+      "title": "RATIFICATION, ACCEPTANCE, APPROVAL OR ACCESSION"
+    },
+    {
+      "type": "article",
+      "id": "entry_into_force",
+      "level": 0,
+      "number": "ARTICLE 28",
+      "title": "ENTRY INTO FORCE"
+    },
+    {
+      "type": "article",
+      "id": "reservations",
+      "level": 0,
+      "number": "ARTICLE 29",
+      "title": "RESERVATIONS"
+    },
+    {
+      "type": "article",
+      "id": "withdrawal",
+      "level": 0,
+      "number": "ARTICLE 30",
+      "title": "WITHDRAWAL"
+    },
+    {
+      "type": "article",
+      "id": "depositary",
+      "level": 0,
+      "number": "ARTICLE 31",
+      "title": "DEPOSITARY"
+    },
+    {
+      "type": "article",
+      "id": "authentic_texts",
+      "level": 0,
+      "number": "ARTICLE 32",
+      "title": "AUTHENTIC TEXTS"
+    }
+  ],
+  "articles": {
+    "preamble": {
+      "status": ["contested"],
+      "content": "[Preamble",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled, modified",
+          "same",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "objective": {
+      "status": ["contested"],
+      "content": "Objective",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "principles": {
+      "status": ["contested"],
+      "content": "PRINCIPLES AND APPROACHES",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled, modified",
+          "contested, modified",
+          "same"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "definitions": {
+      "status": ["contested"],
+      "content": "Definitions (placeholder)",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled, modified",
+          "same",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "problematic_and_avoidable_plastic_products_a": {
+      "status": ["contested"],
+      "content": "[PLASTIC PRODUCTS",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "exemptions": {
+      "status": ["contested"],
+      "content": "EXEMPTIONS",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "product_design_a": {
+      "status": ["contested"],
+      "content": "PLASTIC PRODUCT DESIGN",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "supply": {
+      "status": ["contested"],
+      "content": "[SUPPLY][SUSTAINABLE PRODUCTION]",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "not_existing",
+          "original"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "emissions_and_releases": {
+      "status": ["contested"],
+      "content": "RELEASES AND LEAKAGES",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "waste_management_a": {
+      "status": ["contested"],
+      "content": "PLASTIC WASTE MANAGEMENT",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "existing_plastic_pollution": {
+      "status": ["contested"],
+      "content": "EXISTING PLASTIC POLLUTION",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "just_transition": {
+      "status": ["contested"],
+      "content": "JUST TRANSITION",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "financing": {
+      "status": ["contested"],
+      "content": "FINANCIAL [RESOURCES AND] MECHANISM",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "capacity_technical": {
+      "status": ["contested"],
+      "content": "CAPACITY BUILDING, TECHNICAL ASSISTANCE AND TECHNOLOGY TRANSFER, INCLUDING INTERNATIONAL COOPERATION",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "implementation_compliance": {
+      "status": ["contested"],
+      "content": "IMPLEMENTATION AND COMPLIANCE",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "same",
+          "contested, modified",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "national_plans": {
+      "status": ["contested"],
+      "content": "NATIONAL PLANS",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "reporting_on_progress": {
+      "status": ["contested"],
+      "content": "REPORTING",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "effectiveness_evaluation": {
+      "status": ["contested"],
+      "content": "EFFECTIVENESS EVALUATION",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "information_exchange": {
+      "status": ["contested"],
+      "content": "INFORMATION EXCHANGE",
+      "evolution": {
+        "status_progression": ["original", "same", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "awareness_education": {
+      "status": ["contested"],
+      "content": "PUBLIC INFORMATION, AWARENESS, EDUCATION AND RESEARCH",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "contested, modified",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "health": {
+      "status": ["contested"],
+      "content": "HEALTH",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "original",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "governing": {
+      "status": ["contested"],
+      "content": "CONFERENCE OF THE PARTIES",
+      "evolution": {
+        "status_progression": [
+          "original",
+          "settled",
+          "same",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "subsidiary_bodies": {
+      "status": ["contested"],
+      "content": "SUBSIDIARY BODIES",
+      "evolution": {
+        "status_progression": ["original", "settled", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "secretariat": {
+      "status": ["contested"],
+      "content": "SECRETARIAT",
+      "evolution": {
+        "status_progression": ["original", "settled", "same", "contested"],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "settlement_disputes": {
+      "status": ["contested"],
+      "content": "SETTLEMENT OF DISPUTES",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "amendments": {
+      "status": ["contested"],
+      "content": "AMENDMENTS TO THE CONVENTION",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "adoption_amendment": {
+      "status": ["contested"],
+      "content": "[ADOPTION AND AMENDMENT OF ANNEXES",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested, modified"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "right_to_vote": {
+      "status": ["contested"],
+      "content": "RIGHT TO VOTE",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "signature": {
+      "status": ["contested"],
+      "content": "SIGNATURE",
+      "brackets": false,
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "ratification": {
+      "status": ["contested"],
+      "content": "RATIFICATION, ACCEPTANCE, APPROVAL OR ACCESSION",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "entry_into_force": {
+      "status": ["contested"],
+      "content": "ENTRY INTO FORCE",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "reservations": {
+      "status": ["contested"],
+      "content": "RESERVATIONS",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "withdrawal": {
+      "status": ["contested"],
+      "content": "WITHDRAWAL",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "depositary": {
+      "status": ["contested"],
+      "content": "DEPOSITARY",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    },
+    "authentic_texts": {
+      "status": ["contested"],
+      "content": "AUTHENTIC TEXTS",
+      "evolution": {
+        "status_progression": [
+          "not_existing",
+          "not_existing",
+          "original",
+          "contested"
+        ],
+        "version_order": [
+          "zero_draft",
+          "revised_draft",
+          "compilation_text",
+          "chairs_text"
+        ]
+      }
+    }
+  }
+}

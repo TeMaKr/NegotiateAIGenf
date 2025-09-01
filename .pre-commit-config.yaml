@@ -1,0 +1,69 @@
+# This file is a configuration file for the pre-commit framework. It specifies the repositories, hooks, and their configurations that will be used during the pre-commit process.
+#
+# For more information about pre-commit, you can visit the official website: https://pre-commit.com
+# For a list of available hooks, you can refer to the pre-commit hooks documentation: https://pre-commit.com/hooks.html
+#
+# The `repos` section contains a list of repositories and their respective hooks. Each repository is specified with a `repo` URL and a `rev` (revision) indicating the version to use.
+#
+# The first repository is `pre-commit/pre-commit-hooks` which provides hooks for trailing whitespace, end-of-file fixing, YAML checking, and checking for large files.
+#
+# The second repository is `Yelp/detect-secrets` which provides a hook for detecting secrets. The `exclude` field specifies the files or directories to exclude from the detection process.
+#
+# The third repository is `astral-sh/ruff-pre-commit` which provides hooks for linting and formatting. The `ruff` hook runs the linter with the `--fix` option and ignores specific linting rules. The `ruff-format` hook runs the formatter.
+#
+# The fourth repository is `pre-commit/mirrors-mypy` which provides a hook for running the mypy static type checker. The `additional_dependencies` field specifies additional Python packages required by the hook. The `entry` field specifies the command to run the hook, and the `exclude` field specifies the files or directories to exclude from the type checking process.
+#
+# The fifth repository is `pre-commit/mirrors-eslint` which provides a hook for running the ESLint linter for JavaScript files. The `types` field specifies the file types to apply the hook to. The `args` field specifies additional arguments to pass to the ESLint command, and the `additional_dependencies` field specifies additional npm packages required by the hook.
+#
+# The sixth repository is `pre-commit/mirrors-prettier` which provides a hook for running the Prettier code formatter for JavaScript files. The `types` field specifies the file types to apply the hook to. The `exclude` field specifies the files or directories to exclude from the formatting process, and the `args` field specifies additional arguments to pass to the Prettier command.
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: v1.5.0
+    hooks:
+      - id: detect-secrets
+        exclude: (^orchestration/fastapi/src/examples/data/|^orchestration/fastapi/src/tests|^terraform/secrets)
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.4.4
+    hooks:
+      # Run the linter.
+      - id: ruff
+        args: [--fix]
+        ignore: ["D100","D104","D203","D401"]
+      # Run the formatter.
+      - id: ruff-format
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.10.0
+    hooks:
+      - id: mypy
+        additional_dependencies:
+          - "pydantic"
+          - "pytest"
+          - "fastapi"
+          - "types-requests"
+          - "types-aiofiles"
+        entry: "mypy --config-file ./orchestration/fastapi/pyproject.toml"
+        exclude: ^orchestration/fastapi/src/database/migrations/
+  - repo: https://github.com/pre-commit/mirrors-eslint
+    rev: 'v9.2.0'
+    hooks:
+      - id: eslint
+        types: [javascript]
+        args: ["--config", "./webapp/eslint.config.mjs", "--fix"]
+        additional_dependencies:
+          - eslint-plugin-vue@v9.26.0
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: "v4.0.0-alpha.8"
+    hooks:
+      - id: prettier
+        types: [javascript]
+        exclude: "^(orchestration/fastapi|frontend/node_modules)"
+        args: ["-w"]

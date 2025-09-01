@@ -1,0 +1,1374 @@
+{
+  "": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/grulac_inc-4_declaracion_de_apertura_-_final.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/grulac_inc-4_opening_statement_-_final.pdf": "true"
+    }
+  },
+  " Antigua & Barbuda": {
+    "mapping": [
+      "Trinidad And Tobago",
+      "Panama",
+      "Costa Rica",
+      "Colombia",
+      "Chile",
+      "Ecuador",
+      "Mexico",
+      "Peru",
+      "Antigua And Barbuda",
+      "Dominican Republic",
+      "Paraguay",
+      "Guatemala",
+      "Uruguay",
+      "Jamaica"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/jointstatement_cg1.pdf": "true"
+    }
+  },
+  " Bolivarian Republic of": {
+    "mapping": ["Venezuela"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/intervention_venezuela_inc4.pdf": "true"
+    }
+  },
+  " Dominican": {
+    "mapping": [
+      "Antigua And Barbuda",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Dominican Republic",
+      "Grenada",
+      "Panama",
+      "Peru",
+      "Trinidad And Tobago"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/join_proposal_on_fishing_gear_for_inc4_by_atg_bra_chl_cri_dom_grd_pan_per_tto.pdf": "true"
+    }
+  },
+  " Fiji and Federated States of Micronesia": {
+    "mapping": [
+      "Cook Islands",
+      "Fiji",
+      "Micronesia (Federated States of)",
+      "African Group of States",
+      "Latin American And Caribbean Group (GRULAC)"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/crp_on_moi_submitted_africa_grulac_fiji_cook_island_fsm_26_nov_2024_1_0.pdf": "true"
+    }
+  },
+  " GRULAC 1": {
+    "mapping": [
+      "Cook Islands",
+      "Fiji",
+      "Micronesia (Federated States of)",
+      "African Group of States",
+      "Latin American And Caribbean Group (GRULAC)"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/crp_on_moi_submitted_africa_grulac_fiji_cook_island_fsm_26_nov_2024_1_0.pdf": "true"
+    }
+  },
+  " GRULAC 2": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41771/GRULACsubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  " Group of Latin America and the Caribbean Countries": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/grulac_inc-5_submission_on_article_12_1.pdf": "true"
+    }
+  },
+  " Moldova": {
+    "mapping": [
+      "Republic Of Moldova",
+      "Canada",
+      "Georgia",
+      "Ghana",
+      "Norway",
+      "Peru",
+      "Rwanda",
+      "Switzerland",
+      "Thailand"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/text_proposal_on_chemicals_of_concern_in_plastic_products_0.pdf": "true"
+    }
+  },
+  " Nauru and Panama": {
+    "mapping": [
+      "African Group of States",
+      "Chile",
+      "Cook Islands",
+      "Dominica",
+      "Ecuador",
+      "Micronesia (Federated States of)",
+      "Grenada",
+      "Nauru",
+      "Panama"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/revisedmoiproposal_1.pdf": "true"
+    }
+  },
+  " Norway and Peru": {
+    "mapping": ["Peru", "Republic Of Moldova", "Norway", "Peru"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/plastic_products_proposal_to_upload.pdf": "true"
+    }
+  },
+  " Pacific SIDS and the Philippines": {
+    "mapping": [
+      "Pacific Small Island Developing States (PSIDS)",
+      "Australia",
+      "Ecuador",
+      "Mexico",
+      "Philippines"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/indigenous_peoples.pdf": "true"
+    }
+  },
+  " Pacific Small Island Developing States": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/inc-5_psids_proposal_for_article_8-waste_management_-contact_group_2-_26.11.2024.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/inc-5_psids_proposals_for_article_9_on_existing_plastic_pollution_-_cg2_2024-11-26_0_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_proposal_article_6_28.11.24.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_proposals_for_article_19_2024-11-28_0.pdf": "true"
+    }
+  },
+  " Republic": {
+    "mapping": [
+      "Antigua And Barbuda",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Dominican Republic",
+      "Grenada",
+      "Panama",
+      "Peru",
+      "Trinidad And Tobago"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/join_proposal_on_fishing_gear_for_inc4_by_atg_bra_chl_cri_dom_grd_pan_per_tto.pdf": "true"
+    }
+  },
+  " Republic of Moldova and Ukraine": {
+    "mapping": [
+      "European Union (EU) And Its 27 Member States",
+      "North Macedonia",
+      "Republic Of Moldova",
+      "Ukraine"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/european_union_plenary.pdf": "true"
+    }
+  },
+  " Switzerland and Thailand 1": {
+    "mapping": ["Rwanda", "Switzerland", "Thailand", "Georgia", "Peru"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/initial_plastic_products_list_georgia_peru_rwanda_switzerland_thailand.pdf": "true"
+    }
+  },
+  " Switzerland and Thailand 2": {
+    "mapping": [
+      "Canada",
+      "Ghana",
+      "Rwanda",
+      "Switzerland",
+      "Thailand",
+      "Georgia",
+      "Peru",
+      "Republic Of Moldova",
+      "Norway"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/text_proposal_on_chemicals_of_concern_in_plastic_products_0.pdf": "true"
+    }
+  },
+  " Trinidad & Tobago": {
+    "mapping": [
+      "Antigua And Barbuda",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Dominican Republic",
+      "Grenada",
+      "Panama",
+      "Peru",
+      "Trinidad And Tobago",
+      "Colombia",
+      "Ecuador",
+      "Mexico",
+      "Paraguay",
+      "Guatemala",
+      "Uruguay",
+      "Jamaica"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/jointstatement_cg1.pdf": "true"
+    }
+  },
+  " Uruguay and Jamaica": {
+    "mapping": [
+      "Trinidad And Tobago",
+      "Panama",
+      "Costa Rica",
+      "Colombia",
+      "Chile",
+      "Ecuador",
+      "Mexico",
+      "Peru",
+      "Antigua And Barbuda",
+      "Dominican Republic",
+      "Paraguay",
+      "Guatemala",
+      "Uruguay",
+      "Jamaica"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/jointstatement_cg1.pdf": "true"
+    }
+  },
+  " and Moldova": {
+    "mapping": [
+      "Antigua And Barbuda",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Dominican Republic",
+      "Grenada",
+      "Panama",
+      "Peru",
+      "Trinidad And Tobago",
+      "Colombia",
+      "Ecuador",
+      "Mexico",
+      "Paraguay",
+      "Guatemala",
+      "Uruguay",
+      "Jamaica"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/jointstatement_cg1.pdf": "true"
+    }
+  },
+  " and Trinidad and Tobago": {
+    "mapping": [
+      "Antigua And Barbuda",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Dominican Republic",
+      "Grenada",
+      "Panama",
+      "Peru",
+      "Trinidad And Tobago"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/join_proposal_on_fishing_gear_for_inc4_by_atg_bra_chl_cri_dom_grd_pan_per_tto.pdf": "true"
+    }
+  },
+  " and the United Kingdom": {
+    "mapping": [
+      "United States of America",
+      "Australia",
+      "Canada",
+      "Iceland",
+      "Japan",
+      "Monaco",
+      "New Zealand",
+      "Norway",
+      "Republic Of Korea",
+      "Switzerland",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/usstatement.pdf": "true"
+    }
+  },
+  " and the United Kingdom.": {
+    "mapping": [
+      "United States of America",
+      "Canada",
+      "Australia",
+      "European Union (EU) And Its 27 Member States",
+      "Iceland",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "Switzerland",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/textproposal_merged_art11_rev.pdf": "true"
+    }
+  },
+  " on behalf of the United States": {
+    "mapping": [
+      "United States of America",
+      "Australia",
+      "Canada",
+      "Iceland",
+      "Japan",
+      "Monaco",
+      "New Zealand",
+      "Norway",
+      "Republic Of Korea",
+      "Switzerland",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/usstatement.pdf": "true"
+    }
+  },
+  " the Cook Islands 1": {
+    "mapping": [
+      "African Group of States",
+      "Chile",
+      "Cook Islands",
+      "Dominica",
+      "Ecuador",
+      "Micronesia (Federated States of)",
+      "Grenada",
+      "Nauru",
+      "Panama"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/revisedmoiproposal_1.pdf": "true"
+    }
+  },
+  " the Cook Islands 2": {
+    "mapping": [
+      "Uganda",
+      "Chile",
+      "Cook Islands",
+      "Ecuador",
+      "Micronesia (Federated States of)",
+      "Rwanda",
+      "Senegal"
+    ],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/42610/JointProposal.pdf": "true"
+    }
+  },
+  " the European Union and its 27 member states": {
+    "mapping": [
+      "United States of America",
+      "Canada",
+      "Australia",
+      "European Union (EU) And Its 27 Member States",
+      "Iceland",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "Switzerland",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/textproposal_merged_art11_rev.pdf": "true"
+    }
+  },
+  " the Federated States of Micronesia 1": {
+    "mapping": [
+      "African Group of States",
+      "Chile",
+      "Cook Islands",
+      "Dominica",
+      "Ecuador",
+      "Micronesia (Federated States of)",
+      "Grenada",
+      "Nauru",
+      "Panama"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/revisedmoiproposal_1.pdf": "true"
+    }
+  },
+  " the Republic of Korea": {
+    "mapping": [
+      "United States of America",
+      "Australia",
+      "Canada",
+      "Iceland",
+      "Japan",
+      "Monaco",
+      "New Zealand",
+      "Norway",
+      "Republic Of Korea",
+      "Switzerland",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/usstatement.pdf": "true"
+    }
+  },
+  "20 GRULAC Countries": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/brazil_on_behalf_of_20_grulac_countries_financing_18_nov.pdf#overlay-context=NonPaper3%3Fq%3DNonPaper3": "true"
+    }
+  },
+  "39 Small Island Developing States": {
+    "mapping": ["Alliance Of Small Island States (AOSIS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/aosis_inc4_final_intersessional_work_proposal_-_apr_25_-_revised.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/aosis_inc4_final_intersessional_work_proposal_-_apr_25_-_revised.docx__0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/aosis_inc4_final_intersessional_work_proposal_-_apr_25_-_revised.docx__1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/aosis_inc4_final_intersessional_work_proposal_-_apr_25_-_revised.docx__2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/inc4_closing_statement_-_samoa_sids.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/part_1_preamble_pdf.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/part_1_scope_pdf.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/part_i_-_principles_pdf.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/part_ii._12_just_transition_pdf.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_ii.10b_-_transboundary_movement_of_plastic_waste_-_26_apr_24.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_ii.11_-_existing_plastic_pollution_-_26_apr_24.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_ii.4_-_exemptions_-_26_apr_24.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_ii.9a_-_waste_management_-_26_apr_24.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_ii.9b_-_fishing_gear_-_26_apr_24.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_iii.1_-_financing_-_26_apr_24_.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_iii.2_-_capacity-building_tech_asst._and_tech_transfer_-_26_apr_24.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_iii.3_-_reporting_on_progress_-_26_apr_24.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_iii.4_-_periodic_assessment_and_effectiveness_-_26_apr_24.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_iv.5_-_intl_cooperation_-_26_apr_24.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_samoa_-_iv.6_-_information_exchange_-_26_apr_24.docx_.pdf": "true"
+    }
+  },
+  "39 member states of the Alliance of Small Island States (AOSIS)": {
+    "mapping": ["Alliance Of Small Island States (AOSIS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/aosis_15092023_a_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/aosis_15092023_b_0.pdf": "true"
+    }
+  },
+  "AGN": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/agn_statement_on_articles_13_and_14_in_session_doc_submission_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_statements_for_cg_4_preamble_principles_scope_definitions_26-11-24_2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_submission_on_article_15_and_16_2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_submission_or_art_17_19_in_session_doc_2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/art_24_-_cg4_1.pdf": "true"
+    }
+  },
+  "Africa": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/8_bis_on_the_health_aspects.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/assessment_and_monitoring.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/awareness-raising_education_and_research.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/effectiveness_evaluation.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/ethiopia_on_aricle_5_design_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/governing_body.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/information_exchange.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/international_cooperation.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/national_action-implementation_plans_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/periodic_assessment_and_monitoring_of_the_progress_of_implementation_of_the_instrument.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/reporting_on_progress_of_implementation.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/secretariat_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/stakeholder_engagement.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/subsidiary_bodies.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africa_group_16112023_cg2.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africagroup.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africagroup_cg3.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/ag_synthesisreport.pdf": "true"
+    }
+  },
+  "Africa Group": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/africa_group_intervention_at_inc4_on_late_night_meetings.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_8._stakeholder_engagement._cg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_8_bis_on_the_health_aspects_sg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_awareness-raising_education_and_research_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_effectiveness_evaluation_cg2_sg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_implementation_and_compliance_cg2_sg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_information_exchange_cg2_sg2.2_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_international_cooperation_cg2_sg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_national_action_implementation_plans_cg2_sg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_part_v_3._secretariat_cg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_subsidiary_bodies_cg2_sg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/african_group_statement_on_periodic_assessment_and_monitoring_of_the_progress_of_implementation_of_the_instrument.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/african_group_statement_on_reporting_on_progress_of_implementation_cg2_sg2.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_closing_statement_for_inc-4.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_iw_v2_290424.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_text_proposal_on_cg_2_article_8_0_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cg2_sg2.2_africa_group_statement_on_assessment_and_monitoring.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cg_2.2_part_v_africa_group_statement_on_1._governing_body.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/subroup_2.1_african_group_interventions.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africa_group_contact_group1_18_nov.pdf#overlay-context=NonPaper3%3Fq%3DNonPaper3": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africa_group_elements.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africa_group_g1_0.pdf#overlay-context=node/385/revisions/13622/view%3Fq%3Dnode/385/revisions/13622/view": "true",
+      "https://resolutions.unep.org/resolutions/uploads/ag_position_on_intersessional_work_from_all_contact_groups_18_-_11-_2023-final_1.pdf#overlay-context=NonPaper3%3Fq%3DNonPaper3": "true",
+      "https://resolutions.unep.org/resolutions/uploads/all_statements_made_by_african_group_during_inc1.pdf": "true"
+    }
+  },
+  "Africa Group 1": {
+    "mapping": [
+      "African Group of States",
+      "Latin American And Caribbean Group (GRULAC)",
+      "Cook Islands",
+      "Fiji",
+      "Micronesia (Federated States of)"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/crp_on_moi_submitted_africa_grulac_fiji_cook_island_fsm_26_nov_2024_1_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/crp_on_moi_submitted_africa_grulac_fiji_cook_island_fsm_26_nov_2024_3_0.pdf": "true"
+    }
+  },
+  "Africa Group 2": {
+    "mapping": [
+      "African Group of States",
+      "Chile",
+      "Cook Islands",
+      "Dominica",
+      "Ecuador",
+      "Micronesia (Federated States of)",
+      "Grenada",
+      "Nauru",
+      "Panama"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/revisedmoiproposal_1.pdf": "true"
+    }
+  },
+  "Africa Group ": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/agn_statement_on_articles_13_and_14_in_session_doc_submission_1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_statement_on_articles_13_and_14_in_session_doc_submission_3.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_statement_on_articles_13_and_14_in_session_doc_submission_4.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_statements_for_cg_4_preamble_principles_scope_definitions_26-11-24_1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_submission_on_article_15_and_16_1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_submission_or_art_17_19_in_session_doc_0.pdf": "true"
+    }
+  },
+  "African Group": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/africa_group_statement_on_intersessional_work_plenary_28.4.24.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/african_group_of_negotiators_cg1_sg1.2_statements_final.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/african_group_of_negotiators_opening_statement.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/agn_-_transboundary.pdf": "true"
+    }
+  },
+  "African Region": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/africa_15092023_a_3.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africa_12092023_b_0.pdf": "true"
+    }
+  },
+  "African Group (AG)": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/africa.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africa_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/africaclosingstatement_0.pdf": "true"
+    }
+  },
+  "Arab Group": {
+    "mapping": ["Arab Group"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/cg_4_-_art._13_facilitate_implementation_and_promote_compliance_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cg_4_-_art._14_national_action_plans__0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cg_4_-_principles_arab_group_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/just_transition_proposal.pdf": "<ADD TRUE OR FALSE HERE>"
+    }
+  },
+  "Article 11: Finance": {
+    "mapping": "Mongolia",
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/mongolia_article11_contactgroup3.pdf": "true"
+    }
+  },
+  "Asia and the Pacific Group (APG)": {
+    "mapping": ["Asia-Pacific States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/apg.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/apgstatement_0.pdf": "true"
+    }
+  },
+  "Asia-Pacific States": {
+    "mapping": ["Asia-Pacific States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/regional_statement_for_inc1_by_asia_pacific_group_0.pdf": "true"
+    }
+  },
+  "Bangladesh (Agenda Item 3(a) included)": {
+    "mapping": ["Bangladesh"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/28062023_bangladesh.pdf": "true"
+    }
+  },
+  "CG1": {
+    "mapping": ["Qatar"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/cg-1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/intervention_state_of_qatar_26nov_copy.pdf": "true"
+    }
+  },
+  "Canada\u00a0(": {
+    "mapping": ["Canada"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41812/CANADAsubmission.pdf": "true",
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41812/CANADAsubmissionFR.pdf": "true"
+    }
+  },
+  "Chemicals and Polymers of Concern": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/psids-statement-sg1.2_2.pdf": "true"
+    }
+  },
+  "Chile\u00a0(": {
+    "mapping": ["Chile"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/chile_-_intervencion_de_apertura.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/chile_objective_.pdf": "true"
+    }
+  },
+  "Closing statement:": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/grulac_closing_statement_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/grulac_intervencion_de_cierre_0.pdf": "true"
+    }
+  },
+  "Cook Island (Delegate specialised agencies)": {
+    "mapping": ["Cook Islands"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/cook_islands-statement-sg1.1_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cook_islands-statement-subgroup1_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cook_islands_-_statement_-_4bis.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cook_islands_-_statement_-_closing_plenary.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/cook_islands_-_statement_-_plenary.pdf": "true"
+    }
+  },
+  "Cook Islands Government": {
+    "mapping": ["Cook Islands"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/cook_islands_item_9_b.pdf#overlay-context=node/385/revisions/13627/view%3Fq%3Dnode/385/revisions/13627/view": "true",
+      "https://resolutions.unep.org/resolutions/uploads/cook_islands_part_2_10.pdf#overlay-context=node/385/revisions/13627/view%3Fq%3Dnode/385/revisions/13627/view": "true"
+    }
+  },
+  "Cook's Island": {
+    "mapping": ["Cook Islands"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/cook_islands_general_statement_0.pdf": "true"
+    }
+  },
+  "C\u00f4te d'Ivoire": {
+    "mapping": ["Cote DIvoire"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/cote_d_ivoire_4.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/cote_divoire_icn-1_0.pdf": "true"
+    }
+  },
+  "Democratic Republic of Congo": {
+    "mapping": ["Democratic Republic Of The Congo"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/drc.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/drc_15092023_a.pdf": "true"
+    }
+  },
+  "Democratic Republic of the\u202fCongo": {
+    "mapping": ["Democratic Republic Of The Congo"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/drc_statement_inc1_0.pdf": "true"
+    }
+  },
+  "European Union": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/all_statements_made_by_eu_during_inc1.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_15112023_reportingonprogress.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_assessmentandmonitoring.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_awarenessraisingeducationandresearch.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_capacitybuilding.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_cg1merger_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_cg3.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_financing.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_implementationandcompliance.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_internationalcooperation.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_nationalplans.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_part1.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_preambledefinitionsprinciplesandscope.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/eu_stakeholderengagement.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/euobjectives_0.pdf": "true",
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41793/EUsubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  "European Union (EU)": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/european_union_1.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/europeanunion.pdf": "true"
+    }
+  },
+  "European Union (EU) and its 27 Member States (MS)": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/eums_14092023_b.pdf": "true"
+    }
+  },
+  "European Union and it's 27 Member States as well as Georgia": {
+    "mapping": [
+      "European Union (EU) And Its 27 Member States",
+      "North Macedonia",
+      "Republic Of Moldova",
+      "Ukraine"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/european_union_plenary.pdf": "true"
+    }
+  },
+  "European Union and its 27 Member States": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/european_union_conceptual_approach_for_provisions_235.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_monitoring_contactgroup2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_objective.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_plenary_intersessional_work.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_preamble.pdf": "true"
+    }
+  },
+  "European Union and its 27 Member states": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/eums_written_submission_inc_organization_of_work.pdf#overlay-context=node/344%3Fq%3Dnode/344": "true"
+    }
+  },
+  "European Union and its 27\u00a0 Member States": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_waste_management.pdf": "true"
+    }
+  },
+  "European Union and its MS": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/eu_and_its_ms_intersessional_work.pdf#overlay-context=node/385/revisions/13633/view%3Fq%3Dnode/385/revisions/13633/view": "true"
+    }
+  },
+  "European Union and its Member States": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/european_union_emissions_and_releases.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_just_transition.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_chemicals_of_concern.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_criteria_and_lists_for_2_and_3.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_existing_plastic_pollution_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_extended_producer_responsibility.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_fishing_gear.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_primary_plastic_polymers.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_problematic_and_avoidable_plastic_products.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part2_product_design_and_performance.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part3_finance.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_part4_general_submission.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_plenary_closing_statement.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_statement_subgroup_1.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/european_union_subgroup2_statement.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/27062023_eu_and_its_member_states_cg1.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/27062023_eu_and_its_member_states_cg2.pdf": "true"
+    }
+  },
+  "Federated States of Micronesia": {
+    "mapping": ["Micronesia (Federated States of)"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41799/Micronesiasubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  "GCC": {
+    "mapping": ["Gulf Cooperation Council"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/cg1_part_ii_8_gcc.pdf": "true"
+    }
+  },
+  "Gambia": {
+    "mapping": ["Gambia (Republic of The)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/gambia.pdf": "true"
+    }
+  },
+  "Georgia on behalf of the High Ambition Coalition": {
+    "mapping": ["High Ambition Coalition (HAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/high_ambition_coalition_to_end_plastic_pollution_joint_statement_0_0.pdf": "true"
+    }
+  },
+  "Gluf cooperation Council": {
+    "mapping": ["Gulf Cooperation Council"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/29_april_24_kuwait_intervention_on_behalf_of_gcc_contact_group_2_general.pdf": "true"
+    }
+  },
+  "Group of Latin America and the Caribbean": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/final_grulac_proposal_on_intersessional_work_inc-4_-_27.04.24.pdf": "true"
+    }
+  },
+  "Group of Latin America and the Caribbean (GRULAC)": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/grulac_15092023_a.pdf": "true"
+    }
+  },
+  "Group of Latin America and the Caribbean Countries": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/grulac_inc-5_submission_on_fishing_gear_1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/grulac_inc-5_submission_on_just_transition_1_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/grulac_inc-5_submission_on_the_scientific_and_technical_subsidiary_body.pdf": "true"
+    }
+  },
+  "Group of Latin American and Caribbean States": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41771/GRULACsubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  "Gulf Cooperation Council (GCC)": {
+    "mapping": ["Gulf Cooperation Council"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/gcc.pdf": "true"
+    }
+  },
+  "High Ambition Coalition (HAC)": {
+    "mapping": ["High Ambition Coalition (HAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/hac.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/highambitioncoalitionstatement_0.pdf": "true"
+    }
+  },
+  "High Ambition Coalition to End Plastic Pollution (HAC)": {
+    "mapping": ["High Ambition Coalition (HAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/peter_malawi_statement_on_behalf_of_hac_1.pdf": "true"
+    }
+  },
+  "Holy See": {
+    "mapping": ["Holy See"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/holy_see-plenary.pdf": "true"
+    }
+  },
+  "Iran": {
+    "mapping": ["Iran (Islamic Republic of)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/iran_16112023_epr.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_16112023_final_provosions.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_16112023_institutional_arrangement.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_16112023_just_transition_and_transparency_tracking_monitoring_and_labelling.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_1_2.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_compliance.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_definitions_17112023.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_exemptions.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_financing.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_institutionalarrangement.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_periodicassessment.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_primaryplasticspolymers.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iran_scopeprinciplesandpreamble.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/iranstatement_0.pdf": "true",
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/44169/Iran_A.pdf": "true",
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/44170/Iran_B.pdf": "true"
+    }
+  },
+  "Islamic Republic of Iran": {
+    "mapping": ["Iran (Islamic Republic of)"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41781/Iransubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  "Join Statement by Panama": {
+    "mapping": [
+      "Trinidad And Tobago",
+      "Panama",
+      "Costa Rica",
+      "Colombia",
+      "Chile",
+      "Ecuador",
+      "Mexico",
+      "Peru",
+      "Antigua And Barbuda",
+      "Dominican Republic",
+      "Paraguay",
+      "Guatemala",
+      "Uruguay",
+      "Jamaica"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/jointstatement_cg1.pdf": "true"
+    }
+  },
+  "Joint proposal by Antigua and Barbuda": {
+    "mapping": [
+      "Antigua And Barbuda",
+      "Brazil",
+      "Chile",
+      "Costa Rica",
+      "Dominican Republic",
+      "Grenada",
+      "Panama",
+      "Peru",
+      "Trinidad And Tobago"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/join_proposal_on_fishing_gear_for_inc4_by_atg_bra_chl_cri_dom_grd_pan_per_tto.pdf": "true"
+    }
+  },
+  "Kuwait\u00a0( Arabic": {
+    "mapping": ["Kuwait"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/klm_dwl_lkwyt_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/state_of_kuwait_.pdf": "true"
+    }
+  },
+  "Kuwait\u00a0( Arabic ": {
+    "mapping": ["Kuwait"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/kuwait.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/kuwait_4.pdf": "true"
+    }
+  },
+  "Latin America and Caribbean Group": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/grulac_inc1_statements_0.pdf": "true"
+    }
+  },
+  "Latin American and Caribbean Group (GRULAC):": {
+    "mapping": ["Latin American And Caribbean Group (GRULAC)"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/42594/GRULACstatement_English.pdf": "true",
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/42594/GRULACstatement_spanish.pdf": "true"
+    }
+  },
+  "Madagscar": {
+    "mapping": ["Madagascar"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/madagascar_15092023_a.pdf": "true"
+    }
+  },
+  "Micronesia": {
+    "mapping": ["Micronesia (Federated States of)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/federated_states_of_micronesia_monitoring_and_evaluation_of_progress_0.pdf": "true"
+    }
+  },
+  "Moldova": {
+    "mapping": ["Republic Of Moldova"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/moldova_13092023_a.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/moldova_13092023_b.pdf": "true"
+    }
+  },
+  "Norway & Rwanda as co-chairs of the High Ambition Coalition to End Plastic Pollution": {
+    "mapping": ["High Ambition Coalition (HAC)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/hac_15092023_a.pdf": "true",
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41797/HACsubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  "PSIDs Statement - Sub Group 1.2 Primary Plastic Polymers": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/psids-statement-sg1.2_ppps.pdf": "true"
+    }
+  },
+  "Pacific SIDs Statement Sub Group 1.2 (3a and 3b)": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/psids-statement-sg1.2_3a_3b.pdf": "true"
+    }
+  },
+  "Pacific Small Island Developing States": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/1.3_9a_-_pacific_sids.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/article_7_emissions_and_releases.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/inc-5_psids_proposals_for_preamble_2024-11-26_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/inc-5_psids_proposals_for_principles_2024-11-26_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/opening_statement-pacific_small_island_developing_states-full_version.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/pacific_sids-closing_statement_on_intersessional_work.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/pacific_sids_text_proposal_for_part_ii_7_epr.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_mexico_proposal_on_article_18_28.11.2024_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_proposal_article_6_28.11.24_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_proposal_for_article_21_28.11.2024_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_proposals_for_article_3_submission_by_bra_rok.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_streamline_statement_on_capacity_buildingtt_ta.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_text_proposal_on_part_i_item_1_objectives-edited.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_text_proposal_on_part_ii_item_11_co-facilitator_streamlined_text.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids_textual_proposal_part_ii_5_product_design.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psidsmexico_proposals_for_article_17_28.11.2024_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sg1.1_psids_intervention_on_part_i_item_12_just_transition._delivered_by_tuvalu.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sg1.1_psids_intervention_on_part_i_item_2_objectives._delivered_by_tuvalu.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sg1.3_psids_intervention_on_part_ii_item_11_existing_plastic_pollution_including_in_the_marine_environment_by_tuvalu.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sg1.3_psids_intervention_on_part_ii_item_8_emission_and_release_of_plastic_throught_its_life_cycle._delivered_by_tuvalu.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sg1.3_psids_intervention_on_part_ii_item_8_text_negotiation_delivered_by_tuvalufinal.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sg1.3_psids_intervention_on_part_ii_item_8_text_negotiation_delivered_by_tuvalufinal_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sg_1.2_1.3_joint_meeting_psids_statement_on_part_ii_item_9b_fishing_gear_delivered_by_tuvalu.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/solomon_is-item_5.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/solomon_is-item_7.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/tuvalu_psids_article_1_objectives_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/vanuatu-subgroup_1.2-_non_plastic_substitute.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/vanuatu-subgroup_1.2_-_exemptions_available_to_a_party_upon_request.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/22062023_psids.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/all_statements_made_by_psids_during_inc1_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/psids_16112023_part_2_item_10a_and_10b.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/psidsfinancing_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/psidsobjectives_0.pdf": "true"
+    }
+  },
+  "Pacific Small Island Developing States (PSIDSs)": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/intervention_cg1_sg1.1_item_2-_objective.pdf": "true"
+    }
+  },
+  "Pacific Small Island Developing States (Pacific SIDs)": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/submission_by_psids_26.11.24_0_0.pdf": "true"
+    }
+  },
+  "Pacific Small Island Developing States\u00a0(PSIDS)": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/psids.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/psids2.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/psids_closingstatement.pdf": "true"
+    }
+  },
+  "Pacific Small Island Development States (PSIDs)": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/psids_statement_-_cg1_-_sg1.2.pdf": "true"
+    }
+  },
+  "Pacific Small Island Development States (Pacific SIDs)": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/psids-statement-sg1.2.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids-statement-sg1.2_3a_3b_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids-statement-sg1.2_3bis_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/psids-statement-sg1.2_item_3.pdf": "true"
+    }
+  },
+  "Panama and a Group of Countries": {
+    "mapping": [
+      "Panama",
+      "Angola",
+      "Antigua And Barbuda",
+      "Australia",
+      "Bangladesh",
+      "Benin",
+      "Botswana",
+      "Burkina Faso",
+      "Burundi",
+      "Cabo Verde",
+      "Cameroon",
+      "Canada",
+      "Central African Republic",
+      "Chad",
+      "Chile",
+      "Colombia",
+      "Comoros",
+      "Congo",
+      "Cote DIvoire",
+      "Ecuador",
+      "Equatorial Guinea",
+      "Eswatini",
+      "Ethiopia",
+      "European Union (EU) And Its 27 Member States",
+      "Gabon",
+      "Gambia (Republic of The)",
+      "Georgia",
+      "Ghana",
+      "Guinea Bissau",
+      "Guinea Bissau",
+      "Iceland",
+      "Israel",
+      "Lesotho",
+      "Liberia",
+      "Madagascar",
+      "Malawi",
+      "Maldives",
+      "Mali",
+      "Mauritania",
+      "Mauritius",
+      "Mexico",
+      "Republic Of Moldova",
+      "Monaco",
+      "Mozambique",
+      "Namibia",
+      "New Zealand",
+      "Niger",
+      "Niger",
+      "Norway",
+      "Philippines",
+      "Rwanda",
+      "Sao Tome And Principe",
+      "Seychelles",
+      "Sierra Leone",
+      "South Sudan",
+      "Switzerland",
+      "Togo",
+      "Ukraine",
+      "United Arab Emirates",
+      "Zambia"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/text_proposal_-_article_6_-_panama_on_behalf_of_a_group_of_countries_1.pdf": "true"
+    }
+  },
+  "Peru and Rwanda": {
+    "mapping": ["Peru", "Rwanda"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/conference_room_paper_on_behalf_of_peru_and_rwanda_iw.pdf": "true"
+    }
+  },
+  "Peru\u00a0(": {
+    "mapping": ["Peru"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/peru_submission_inc_plastics_eng_rev.pdf#overlay-context=node/344%3Fq%3Dnode/344": "true",
+      "https://resolutions.unep.org/resolutions/uploads/peru_submission_inc_plastics_spa.pdf#overlay-context=node/344/revisions/11256/view%3Fq%3Dnode/344/revisions/11256/view": "true"
+    }
+  },
+  "Proposal from 62 members": {
+    "mapping": "Other",
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/proposal_from_62_members_16112023_cross-regional_moi.pdf": "<ADD TRUE OR FALSE HERE>"
+    }
+  },
+  "Republic of Congo": {
+    "mapping": ["Congo"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/congo.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/republicofcongo.pdf": "true"
+    }
+  },
+  "Republic of\u00a0Congo": {
+    "mapping": ["Congo"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/republic_of_congo_all_statements.pdf": "true"
+    }
+  },
+  "Russia Federation (": {
+    "mapping": ["Russian Federation"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/russia_15092023_a_rus.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/russia_15092023_b_eng.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/russia_15092023_b_rus.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/russian_15092023_a_eng.pdf": "true"
+    }
+  },
+  "Samoa on behalf of SIDS": {
+    "mapping": ["Alliance Of Small Island States (AOSIS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_art._7_-_25_november_2024_0_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_art._8_-_25_nov_2024_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_art._9_-_26_nov_2024_0_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_art_8_-_waste_management_-_28_nov_.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_article_20_-_subsidiary_body_-_27_nov_2024_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_cg3_art_11._financing_-_26_nov_1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_cg3_art_12._cbtt_-_27_nov_-_final_.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_cg4_-_art._14_-_national_plans.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_cg4_-_article_13_-_implementation_comp_1.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_-_article_15_-_26_nov_2024_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_-_article_16_-_26_nov_2024_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_-_preamble_-_26_nov_2024.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_-_principles_-_26_nov_2024_0.pdf": "true"
+    }
+  },
+  "Samoa on behalf of Small Island Developing States": {
+    "mapping": ["Alliance Of Small Island States (AOSIS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/samoa_on_behalf_of_sids_-_art._9_-_28_nov_2024.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/sids_revised_draft_proposal_-_art.9_remediation_mechanism_-_26_nov.docx_.pdf": "true"
+    }
+  },
+  "Small Island Developing States": {
+    "mapping": ["Alliance Of Small Island States (AOSIS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/opening_statement_-_samoa_sids.docx_.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/part_iv_-_section_1_naps_-_samoa_sids_.docx-2.pdf": "true"
+    }
+  },
+  "Statement_Sub-group": {
+    "mapping": ["Mongolia"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/mongolia_sub-group-1.3_partii_e7.pdf": "true"
+    }
+  },
+  "Syria": {
+    "mapping": ["Syrian Arab Republic"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/syria_28082023_a.pdf": "true"
+    }
+  },
+  "The Alliance of Small Island States (AOSIS)": {
+    "mapping": ["Alliance Of Small Island States (AOSIS)"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41862/AOSISSubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  "The EU and its Member States": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/eums_amendments_to_chair_non-paper_-_implementation_compliance_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_amendments_to_chair_non-paper_-_national_plans_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_proposals_for_changes_in_art_9_2024_11_26.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_proposals_for_changes_to_article_8.pdf": "true"
+    }
+  },
+  "The EU and its Member States and Chile": {
+    "mapping": ["European Union (EU) And Its 27 Member States", "Chile"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/eums_and_chile_document_on_epr_for_inc5_-_25112024_1_0.pdf": "true"
+    }
+  },
+  "The European Union and its Member States": {
+    "mapping": ["European Union (EU) And Its 27 Member States"],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/eu_suggestions_bra_informal_proposal_on_article_3.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_proposal_on_article_16_-_effectiveness_evaluation_and_monitoring_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_proposal_on_article_5_-_plastic_product_design_0_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_proposals_cg1_definitions_0.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_submission_-_article_11_-_para_4.pdf": "true",
+      "https://resolutions.unep.org/incres/uploads/eums_submission_on_article_12.pdf": "true"
+    }
+  },
+  "The Group of\u00a0African States": {
+    "mapping": ["African Group of States"],
+    "hrefs": {
+      "https://wedocs.unep.org/bitstream/handle/20.500.11822/41840/AfricaGroupSubmission.pdf?sequence=1&isAllowed=y": "true"
+    }
+  },
+  "Turkiye": {
+    "mapping": ["Türkiye"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/turkiye_0.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/turkiye_16112023_information_exchange.pdf#overlay-context=node/385/revisions/13633/view%3Fq%3Dnode/385/revisions/13633/view": "true",
+      "https://resolutions.unep.org/resolutions/uploads/turkiye_16112023_product_design.pdf#overlay-context=node/385/revisions/13633/view%3Fq%3Dnode/385/revisions/13633/view": "true"
+    }
+  },
+  "Tuvalu and behalf of Pacific Small Island Developing States (PSIDS)": {
+    "mapping": ["Pacific Small Island Developing States (PSIDS)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/tuvalu_and_behalf_of_psids_cg1_part_ii_8.pdf": "true"
+    }
+  },
+  "United Kingdom_1": {
+    "mapping": [
+      "Peru",
+      "Republic Of Moldova",
+      "Norway",
+      "Peru",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/plastic_products_proposal_to_upload.pdf": "true"
+    }
+  },
+  "United Kingdom_2": {
+    "mapping": [
+      "Peru",
+      "Republic Of Moldova",
+      "Norway",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/uk_mol_nor_plastic_products_proposal_cg1_0_0.pdf": "true"
+    }
+  },
+  "United Kingdom_3": {
+    "mapping": ["United Kingdom Of Great Britain And Northern Ireland"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/united_kingdom_substantialchangearticle10b.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/united_kingdom_substantialchangearticle5d.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/unitedkingdom_institutionalarrangementsandfinalprovisions.pdf": "true"
+    }
+  },
+  "United Kingdom and Thailand": {
+    "mapping": [
+      "United Kingdom Of Great Britain And Northern Ireland",
+      "Thailand"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/proposal_on_problematic_and_avoidable_plastic_products_by_uk_and_thailand.pdf": "true"
+    }
+  },
+  "United Kingdom of Great Britain and Northern Ireland and Brazil": {
+    "mapping": [
+      "Brazil",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/report_0.pdf": "true"
+    }
+  },
+  "United States": {
+    "mapping": [
+      "United States of America",
+      "Canada",
+      "Australia",
+      "European Union (EU) And Its 27 Member States",
+      "Iceland",
+      "Japan",
+      "New Zealand",
+      "Norway",
+      "Switzerland",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/incres/uploads/textproposal_merged_art11_rev.pdf": "true"
+    }
+  },
+  "United States 2": {
+    "mapping": [
+      "United States of America",
+      "Australia",
+      "Canada",
+      "Iceland",
+      "Japan",
+      "Monaco",
+      "New Zealand",
+      "Norway",
+      "Republic Of Korea",
+      "Switzerland",
+      "United Kingdom Of Great Britain And Northern Ireland"
+    ],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/usstatement.pdf": "true"
+    }
+  },
+  "Venezuela (Bolivarian Republic of)": {
+    "mapping": ["Venezuela"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/venezuela_4.pdf#overlay-context=node/380/revisions/13489/view%3Fq%3Dnode/380/revisions/13489/view": "true"
+    }
+  },
+  "Western European and Other States": {
+    "mapping": "",
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/weog_closing_statement_0.pdf": "<ADD TRUE OR FALSE HERE>"
+    }
+  },
+  "Working Group on Marine Litter (WGML) of Coordinating Body on the Seas of East Asia (COBSEA)": {
+    "mapping": ["Coordinating Body on the Seas of East Asia (COBSEA)"],
+    "hrefs": {
+      "https://resolutions.unep.org/resolutions/uploads/cobsea.pdf": "true",
+      "https://resolutions.unep.org/resolutions/uploads/joint_regional_statement_to_inc-2.pdf": "true"
+    }
+  }
+}

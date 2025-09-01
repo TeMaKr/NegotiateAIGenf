@@ -1,0 +1,6 @@
+target_host: dev-negotiate-ai.social-data-company.de
+caddy:
+  primary_host: dev-negotiate-ai.social-data-company.de
+  redirect_hosts: []
+  basic_auth:
+    giz: $2a$14$sk1stJR8PqtHV599VrjS1uLZPdbHFfcoP32oks8we8vxvUPR4h9wO

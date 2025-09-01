@@ -1,0 +1,12 @@
+@use "./fonts.css";
+@use "./headings.scss";
+
+$body-font-family: "Inter", sans-serif;
+
+@use "vuetify/settings" with (
+  $body-font-family: $body-font-family,
+  $button-font-size: 14px,
+  $button-font-weight: bold,
+  $button-text-letter-spacing: 0.15px,
+  $button-text-transform: none
+);

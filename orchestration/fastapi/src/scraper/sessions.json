@@ -1,0 +1,78 @@
+{
+  "1": {
+    "pre_session_submissions": {
+      "accordionnames": { "Members": "members" },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-1/submissions",
+      "document_type": "pre session submission"
+    },
+    "written_statements": {
+      "accordionnames": {
+        "Members": "members",
+        "Statements of behalf of Group of States": "group"
+      },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-1/statements",
+      "document_type": "statement"
+    }
+  },
+  "2": {
+    "in_session_submissions": {
+      "accordionnames": { "In-session submissions from Members": "members" },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-2/documents/in-session",
+      "document_type": "insession document"
+    },
+    "pre_session_submissions": {
+      "accordionnames": { "Members": "members" },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-2/submissions",
+      "document_type": "pre session submission"
+    },
+    "written_statements": {
+      "accordionnames": {
+        "Members": "members",
+        "Statements on behalf of Groups of States": "group"
+      },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-2/statements",
+      "document_type": "statement"
+    }
+  },
+  "3": {
+    "in_session_submissions": {
+      "accordionnames": { "In-session submissions from Members": "members" },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-3/documents/in-session",
+      "document_type": "insession document"
+    },
+    "pre_session_submissions": {
+      "accordionnames": { "Part A": "members", "Part B": "members" },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-3/submissions",
+      "document_type": "pre session submission",
+      "prevent_duplicate_accordions": true
+    },
+    "written_statements": {
+      "accordionnames": {
+        "Members": "members",
+        "Statements on behalf of Groups of States": "group"
+      },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-3/statements",
+      "document_type": "statement"
+    }
+  },
+  "4": {
+    "in_session_submissions": {
+      "accordionnames": {
+        "Statements from Contact Groups: Groups of States": "cg_group",
+        "In-session submissions from Group of States": "group",
+        "Statements from Contact Groups: Members": "cg_members",
+        "In-session submissions from Members": "members"
+      },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-4/documents/in-session",
+      "document_type": "insession document"
+    },
+    "written_statements": {
+      "accordionnames": {
+        "Members": "members",
+        "Statements on behalf of Groups of States": "group"
+      },
+      "base_url": "https://www.unep.org/inc-plastic-pollution/session-4/statements",
+      "document_type": "statement"
+    }
+  }
+}

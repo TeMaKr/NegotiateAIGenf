@@ -1,0 +1,227 @@
+// Responsive typography for h1
+.fontsize-h1 {
+  // xs breakpoint: use h3 size
+  font-size: 48px !important;
+  line-height: 50px !important;
+  letter-spacing: 0px !important;
+}
+
+@media (min-width: 600px) and (max-width: 959px) {
+  // sm breakpoint: use h2 size
+  .fontsize-h1 {
+    font-size: 60px !important;
+    line-height: 100% !important;
+    letter-spacing: -0.5px !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1263px) {
+  // md breakpoint: use h2 size
+  .fontsize-h1 {
+    font-size: 60px !important;
+    line-height: 100% !important;
+    letter-spacing: -0.5px !important;
+  }
+}
+
+@media (min-width: 1264px) {
+  // lg and xl breakpoints: use h1 size
+  .fontsize-h1 {
+    font-size: 96px !important;
+    line-height: 100% !important;
+    letter-spacing: -1.5px !important;
+  }
+}
+
+// Responsive typography for h2
+.fontsize-h2 {
+  // xs breakpoint: use h4 size
+  font-size: 34px !important;
+  line-height: 40px !important;
+  letter-spacing: 0.25px !important;
+}
+
+@media (min-width: 600px) and (max-width: 959px) {
+  // sm breakpoint: use h3 size
+  .fontsize-h2 {
+    font-size: 48px !important;
+    line-height: 50px !important;
+    letter-spacing: 0px !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1263px) {
+  // md breakpoint: use h3 size
+  .fontsize-h2 {
+    font-size: 48px !important;
+    line-height: 50px !important;
+    letter-spacing: 0px !important;
+  }
+}
+
+@media (min-width: 1264px) {
+  // lg and xl breakpoints: use h2 size
+  .fontsize-h2 {
+    font-size: 60px !important;
+    line-height: 100% !important;
+    letter-spacing: -0.5px !important;
+  }
+}
+
+// Responsive typography for h3
+.fontsize-h3 {
+  // xs breakpoint: use h5 size
+  font-size: 24px !important;
+  line-height: 32px !important;
+  letter-spacing: 0px !important;
+}
+
+@media (min-width: 600px) and (max-width: 959px) {
+  // sm breakpoint: use h4 size
+  .fontsize-h3 {
+    font-size: 34px !important;
+    line-height: 40px !important;
+    letter-spacing: 0.25px !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1263px) {
+  // md breakpoint: use h4 size
+  .fontsize-h3 {
+    font-size: 34px !important;
+    line-height: 40px !important;
+    letter-spacing: 0.25px !important;
+  }
+}
+
+@media (min-width: 1264px) {
+  // lg and xl breakpoints: use h3 size
+  .fontsize-h3 {
+    font-size: 48px !important;
+    line-height: 50px !important;
+    letter-spacing: 0px !important;
+  }
+}
+
+// Responsive typography for h4
+.fontsize-h4 {
+  // xs breakpoint: use h6 size
+  font-size: 20px !important;
+  line-height: 32px !important;
+  letter-spacing: 0.15px !important;
+}
+
+@media (min-width: 600px) and (max-width: 959px) {
+  // sm breakpoint: use h5 size
+  .fontsize-h4 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+    letter-spacing: 0px !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1263px) {
+  // md breakpoint: use h5 size
+  .fontsize-h4 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+    letter-spacing: 0px !important;
+  }
+}
+
+@media (min-width: 1264px) {
+  // lg and xl breakpoints: use h4 size
+  .fontsize-h4 {
+    font-size: 34px !important;
+    line-height: 40px !important;
+    letter-spacing: 0.25px !important;
+  }
+}
+
+// Responsive typography for h5
+.fontsize-h5 {
+  // xs breakpoint: use smaller size
+  font-size: 18px !important;
+  line-height: 28px !important;
+  letter-spacing: 0.15px !important;
+}
+
+@media (min-width: 600px) and (max-width: 959px) {
+  // sm breakpoint: use h6 size
+  .fontsize-h5 {
+    font-size: 20px !important;
+    line-height: 32px !important;
+    letter-spacing: 0.15px !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1263px) {
+  // md breakpoint: use h6 size
+  .fontsize-h5 {
+    font-size: 20px !important;
+    line-height: 32px !important;
+    letter-spacing: 0.15px !important;
+  }
+}
+
+@media (min-width: 1264px) {
+  // lg and xl breakpoints: use h5 size
+  .fontsize-h5 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+    letter-spacing: 0px !important;
+  }
+}
+
+// Responsive typography for h6
+.fontsize-h6 {
+  // xs breakpoint: use smaller size
+  font-size: 16px !important;
+  line-height: 24px !important;
+  letter-spacing: 0.15px !important;
+}
+
+@media (min-width: 600px) and (max-width: 959px) {
+  // sm breakpoint: use smaller size
+  .fontsize-h6 {
+    font-size: 18px !important;
+    line-height: 28px !important;
+    letter-spacing: 0.15px !important;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1263px) {
+  // md breakpoint: use smaller size
+  .fontsize-h6 {
+    font-size: 18px !important;
+    line-height: 28px !important;
+    letter-spacing: 0.15px !important;
+  }
+}
+
+@media (min-width: 1264px) {
+  // lg and xl breakpoints: use h6 size
+  .fontsize-h6 {
+    font-size: 20px !important;
+    line-height: 32px !important;
+    letter-spacing: 0.15px !important;
+  }
+}
+
+// Subtitle 1 typography
+.fontsize-subtitle-1 {
+  color: #0A0C11 !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 28px !important;
+  letter-spacing: 0.15px !important;
+}
+
+// Subtitle 2 typography
+.fontsize-subtitle-2 {
+  color: #0A0C11 !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 22px !important;
+  letter-spacing: 0.1px !important;
+}

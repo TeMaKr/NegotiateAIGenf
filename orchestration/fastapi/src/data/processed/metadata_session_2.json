@@ -1,0 +1,3625 @@
+{
+  "schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "UNEP Session 2 Submissions",
+  "description": "Metadata for UNEP session 2 submissions",
+  "timestamp": "2025-07-25T13:48:48.690511+00:00",
+  "submissions": [
+    {
+      "id": null,
+      "title": "Jointproposal",
+      "description": null,
+      "author": [
+        "Uganda",
+        "Cook Islands",
+        "Chile",
+        "Ecuador",
+        "Senegal",
+        "Micronesia (Federated States of)",
+        "Rwanda"
+      ],
+      "document_type": "insession document",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/42610/JointProposal.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "230105 Republic Of Armenia",
+      "description": null,
+      "author": [
+        "Armenia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/230105_republic_of_armenia.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "230109 Tonga",
+      "description": null,
+      "author": [
+        "Tonga"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/230109_tonga.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "230113 Equatorial Guinea",
+      "description": null,
+      "author": [
+        "Equatorial Guinea"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/230113_equatorial_guinea.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "230113 Republic Of Moldova",
+      "description": null,
+      "author": [
+        "Republic Of Moldova"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/230113_republic_of_moldova.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "230127 Azerbaijan",
+      "description": null,
+      "author": [
+        "Azerbaijan"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/230127_azerbaijan.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "230131 Papua New Guinea",
+      "description": null,
+      "author": [
+        "Papua New Guinea"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/230131_papua_new_guinea.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Nepalsubmission",
+      "description": null,
+      "author": [
+        "Nepal"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41697/Nepalsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Saudiarabiasubmission",
+      "description": null,
+      "author": [
+        "Saudi Arabia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41695/SaudiArabiasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Writtensubmissions",
+      "description": null,
+      "author": [
+        "Yemen"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41698/writtensubmissions.pdf?sequence=3&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Cambodidasubmission",
+      "description": null,
+      "author": [
+        "Cambodia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41746/CambodidaSubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Indonesiasubmission",
+      "description": null,
+      "author": [
+        "Indonesia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41754/Indonesiasubmission.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Bandhsubmission",
+      "description": null,
+      "author": [
+        "Bosnia And Herzegovina"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41755/BandHsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Bangladeshsubmission",
+      "description": null,
+      "author": [
+        "Bangladesh"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41757/Bangladeshsubmission.pdf?sequence=3&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Omansubmission",
+      "description": null,
+      "author": [
+        "Oman"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41760/Omansubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Kuwaitsubmission",
+      "description": null,
+      "author": [
+        "Kuwait"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41759/Kuwaitsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Tunisiasubmission",
+      "description": null,
+      "author": [
+        "Tunisia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41761/Tunisiasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Qatarsubmission",
+      "description": null,
+      "author": [
+        "Qatar"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41767/Qatarsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Nigeriasubmission",
+      "description": null,
+      "author": [
+        "Nigeria"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41764/Nigeriasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Philippinessubmission",
+      "description": null,
+      "author": [
+        "Philippines"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41765/Philippinessubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Singaporesubmission",
+      "description": null,
+      "author": [
+        "Singapore"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41766/Singaporesubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Chinasubmission",
+      "description": null,
+      "author": [
+        "China"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41768/Chinasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Grulacsubmission",
+      "description": null,
+      "author": [
+        "Guatemala",
+        "Uruguay",
+        "Peru",
+        "Suriname",
+        "Jamaica",
+        "Barbados",
+        "Costa Rica",
+        "Antigua And Barbuda",
+        "Latin American And Caribbean Group (GRULAC)",
+        "Cuba",
+        "Panama",
+        "Guyana",
+        "Mexico",
+        "Paraguay",
+        "El Salvador",
+        "Dominica",
+        "Dominican Republic",
+        "Ecuador",
+        "Bolivia",
+        "Saint Lucia",
+        "Belize",
+        "Bahamas (The)",
+        "Venezuela",
+        "Honduras",
+        "Haiti",
+        "Trinidad And Tobago",
+        "Saint Vincent and the Grenadines",
+        "Chile",
+        "Nicaragua",
+        "Colombia",
+        "Saint Kitts and Nevis",
+        "Argentina",
+        "Grenada",
+        "Brazil"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41771/GRULACsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Palausubmission",
+      "description": null,
+      "author": [
+        "Palau"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41773/Palausubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Stateofpalestinesubmission",
+      "description": null,
+      "author": [
+        "State Of Palestine"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41774/Stateofpalestinesubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ghanasubmission",
+      "description": null,
+      "author": [
+        "Ghana"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41775/Ghanasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Cookislandssubmission",
+      "description": null,
+      "author": [
+        "Cook Islands"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41776/CookIslandsSubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Egypt%27S%20Written%20Submission%20For%20Inc",
+      "description": null,
+      "author": [
+        "Egypt"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41869/Egypt%27s%20Written%20Submission%20for%20INC.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Iransubmission",
+      "description": null,
+      "author": [
+        "Iran (Islamic Republic of)"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41781/Iransubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Bahrainsubmission",
+      "description": null,
+      "author": [
+        "Bahrain"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41782/BAHRAINsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Mauritiussubmission",
+      "description": null,
+      "author": [
+        "Mauritius"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41784/Mauritiussubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Srilankasubmission",
+      "description": null,
+      "author": [
+        "Sri Lanka"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41785/Srilankasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Eusubmission",
+      "description": null,
+      "author": [
+        "Estonia",
+        "Hungary",
+        "Poland",
+        "Bulgaria",
+        "Denmark",
+        "Lithuania",
+        "Sweden",
+        "European Union (EU) And Its 27 Member States",
+        "Ireland",
+        "Cyprus",
+        "Austria",
+        "Finland",
+        "Germany",
+        "Italy",
+        "Czech Republic",
+        "Netherlands",
+        "Croatia",
+        "Luxembourg",
+        "Spain",
+        "Belgium",
+        "Portugal",
+        "Slovenia",
+        "Malta",
+        "France",
+        "Romania",
+        "Slovakia",
+        "Latvia",
+        "Greece"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41793/EUsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Japansubmission",
+      "description": null,
+      "author": [
+        "Japan"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41794/Japansubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Tanzaniasubmission",
+      "description": null,
+      "author": [
+        "United Republic Of Tanzania"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41795/Tanzaniasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Hacsubmission",
+      "description": null,
+      "author": [
+        "Uruguay",
+        "Peru",
+        "Moldova",
+        "The Dominican Republic",
+        "Estonia",
+        "Solomon Islands",
+        "Barbados",
+        "Maldives",
+        "Costa Rica",
+        "Mali",
+        "Guinea",
+        "Poland",
+        "Ghana",
+        "Norway",
+        "Republic of Ireland",
+        "Denmark",
+        "Sweden",
+        "Cape Verde",
+        "Panama",
+        "Bulgaria",
+        "Mexico",
+        "Gabon",
+        "Benin",
+        "Togo",
+        "Cook Islands",
+        "United Kingdom",
+        "Austria",
+        "Finland",
+        "Armenia",
+        "Azerbaijan",
+        "Antigua and Barbuda",
+        "Germany",
+        "Mauritius",
+        "Greenland",
+        "Ecuador",
+        "Senegal",
+        "Switzerland",
+        "Ukraine",
+        "Iceland",
+        "The Netherlands",
+        "Luxembourg",
+        "Spain",
+        "Monaco",
+        "New Zealand",
+        "Belgium",
+        "Fiji",
+        "Portugal",
+        "Slovenia",
+        "The United Arab Emirates",
+        "European Union",
+        "Burkina Faso",
+        "France",
+        "Palau",
+        "Jordan",
+        "High Ambition Coalition (HAC)",
+        "Romania",
+        "Rwanda",
+        "Chile",
+        "Colombia",
+        "Montenegro",
+        "Malawi",
+        "Australia",
+        "Seychelles",
+        "Kenya",
+        "Georgia",
+        "Canada",
+        "Republic of Korea",
+        "Japan",
+        "Israel",
+        "Micronesia (Federated States of)",
+        "Nigeria"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41797/HACsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Sierraleonesubmission",
+      "description": null,
+      "author": [
+        "Sierra Leone"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41798/SierraLeonesubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Micronesiasubmission",
+      "description": null,
+      "author": [
+        "Micronesia (Federated States of)"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41799/Micronesiasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Georgiasubmission",
+      "description": null,
+      "author": [
+        "Georgia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41800/Georgiasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Moroccosubmission",
+      "description": null,
+      "author": [
+        "Morocco"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41801/Moroccosubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Norwaysubmission",
+      "description": null,
+      "author": [
+        "Norway"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41802/Norwaysubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Uksubmission",
+      "description": null,
+      "author": [
+        "United Kingdom Of Great Britain And Northern Ireland"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41803/UKSubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Switzerlandsubmission",
+      "description": null,
+      "author": [
+        "Switzerland"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41830/Switzerlandsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Monacosubmission",
+      "description": null,
+      "author": [
+        "Monaco"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41804/Monacosubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Gabonsubmission",
+      "description": null,
+      "author": [
+        "Gabon"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41805/Gabonsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Rwandasubmission",
+      "description": null,
+      "author": [
+        "Rwanda"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41807/RwandaSubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Argentinasubmission",
+      "description": null,
+      "author": [
+        "Argentina"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41808/Argentinasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Lybiasubmission",
+      "description": null,
+      "author": [
+        "Libya"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41809/Lybiasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ussubmission",
+      "description": null,
+      "author": [
+        "United States of America"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41810/USsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Kenyasubmission",
+      "description": null,
+      "author": [
+        "Kenya"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41811/Kenyasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Canadasubmission",
+      "description": null,
+      "author": [
+        "Canada"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41812/CANADAsubmission.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Canadasubmissionfr",
+      "description": null,
+      "author": [
+        "Canada"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41812/CANADAsubmissionFR.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Colombiasubmission",
+      "description": null,
+      "author": [
+        "Colombia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41813/Colombiasubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Newzealandsubmission",
+      "description": null,
+      "author": [
+        "New Zealand"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41815/NewZealandsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Brazilsubmission",
+      "description": null,
+      "author": [
+        "Brazil"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41814/Brazilsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Uruguaysubmission",
+      "description": null,
+      "author": [
+        "Uruguay"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41816/URUGUAYsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Australiasubmission",
+      "description": null,
+      "author": [
+        "Australia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41817/AUSTRALIAsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Perueng",
+      "description": null,
+      "author": [
+        "Peru"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/41905/PERUeng.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Perusubmission",
+      "description": null,
+      "author": [
+        "Peru"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41818/Perusubmission.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ecuadorsubmission",
+      "description": null,
+      "author": [
+        "Ecuador"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41819/ECUADORsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Syrianarabrepublicsubmission",
+      "description": null,
+      "author": [
+        "Syrian Arab Republic"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41832/SyrianArabRepublicsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Thaillandsubmission",
+      "description": null,
+      "author": [
+        "Thailand"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41833/ThaillandSubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Africagroupsubmission",
+      "description": null,
+      "author": [
+        "Morocco",
+        "Angola",
+        "Mauritania",
+        "Burundi",
+        "Namibia",
+        "Mali",
+        "Guinea",
+        "Somalia",
+        "Botswana",
+        "Ghana",
+        "Benin",
+        "Gabon",
+        "United Republic Of Tanzania",
+        "Guinea Bissau",
+        "Algeria",
+        "Sudan",
+        "Togo",
+        "Uganda",
+        "Niger",
+        "Zambia",
+        "African Group of States",
+        "Libya",
+        "Eswatini",
+        "Tunisia",
+        "Lesotho",
+        "Mauritius",
+        "Ethiopia",
+        "Senegal",
+        "Cameroon",
+        "Mozambique",
+        "Equatorial Guinea",
+        "Congo",
+        "South Sudan",
+        "South Africa",
+        "Chad",
+        "Cote DIvoire",
+        "Zimbabwe",
+        "Comoros",
+        "Liberia",
+        "Burkina Faso",
+        "Sierra Leone",
+        "Rwanda",
+        "Djibouti",
+        "Gambia (Republic of The)",
+        "Malawi",
+        "Democratic Republic Of The Congo",
+        "Seychelles",
+        "Cabo Verde",
+        "Kenya",
+        "Madagascar",
+        "Eritrea",
+        "Central African Republic",
+        "Sao Tome and Principe",
+        "Egypt",
+        "Nigeria"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41840/AfricaGroupSubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Burkinafasosubmission",
+      "description": null,
+      "author": [
+        "Burkina Faso"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41847/BurkinaFasosubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Aosissubmission",
+      "description": null,
+      "author": [
+        "Samoa",
+        "Jamaica",
+        "Solomon Islands",
+        "Barbados",
+        "Alliance Of Small Island States (AOSIS)",
+        "Maldives",
+        "Small Island Developing States (SIDS)",
+        "Cuba",
+        "Kiribati",
+        "Guyana",
+        "Tuvalu",
+        "Timor-Leste",
+        "Bahamas",
+        "Cook Islands",
+        "Antigua and Barbuda",
+        "Dominica",
+        "Mauritius",
+        "Dominican Republic",
+        "Trinidad and Tobago",
+        "Singapore",
+        "Niue",
+        "Marshall Islands",
+        "Fiji",
+        "Tonga",
+        "Saint Lucia",
+        "Belize",
+        "Guinea-Bissau",
+        "Comoros",
+        "Papua New Guinea",
+        "Palau",
+        "Haiti",
+        "Saint Vincent and the Grenadines",
+        "Seychelles",
+        "Saint Kitts and Nevis",
+        "Cabo Verde",
+        "Nauru",
+        "Grenada",
+        "São Tomé and Príncipe",
+        "Micronesia (Federated States of)"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41862/AOSISSubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ugsubmission",
+      "description": null,
+      "author": [
+        "Uganda"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41864/Ugsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Russianfederationsubmission",
+      "description": null,
+      "author": [
+        "Russian Federation"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41871/RussianFederationsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Guineesubmission",
+      "description": null,
+      "author": [
+        "Guinea"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/41875/GUINEEsubmission.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Writtensubmissionoftu%Cc%88Rkiye",
+      "description": null,
+      "author": [
+        "Türkiye"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/41906/WrittensubmissionofTu%cc%88rkiye.pdf?sequence=3&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Inc2Writtensubmissionmalaysia",
+      "description": null,
+      "author": [
+        "Malaysia"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/41907/INC2WrittenSubmissionMALAYSIA.pdf?sequence=1&isAllowed=y",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Republic Of Korea Written Submission",
+      "description": null,
+      "author": [
+        "Republic Of Korea"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/republic_of_korea_written_submission.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "04052023 Iceland",
+      "description": null,
+      "author": [
+        "Iceland"
+      ],
+      "document_type": "pre session submission",
+      "href": "https://resolutions.unep.org/resolutions/uploads/04052023_iceland.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Argentinaagenda1Statement 0",
+      "description": null,
+      "author": [
+        "Argentina"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/argentinaagenda1statement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Romania Statement",
+      "description": null,
+      "author": [
+        "Romania"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/romania_statement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ukrainestatementitem2",
+      "description": null,
+      "author": [
+        "Ukraine"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/ukrainestatementitem2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Indiastatement3A 0",
+      "description": null,
+      "author": [
+        "India"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/indiastatement3a_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Qatarstatementagenda4 0",
+      "description": null,
+      "author": [
+        "Qatar"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/qatarstatementagenda4_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Algeria",
+      "description": null,
+      "author": [
+        "Algeria"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/algeria.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Benin",
+      "description": null,
+      "author": [
+        "Benin"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/benin.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Burkinafasostatement",
+      "description": null,
+      "author": [
+        "Burkina Faso"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/burkinafasostatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Comorosstatement 1",
+      "description": null,
+      "author": [
+        "Comoros"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/comorosstatement_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Drc",
+      "description": null,
+      "author": [
+        "Democratic Republic Of The Congo"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/drc.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Eritreastatement 0",
+      "description": null,
+      "author": [
+        "Eritrea"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/eritreastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ethiopiastatement 2",
+      "description": null,
+      "author": [
+        "Ethiopia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/ethiopiastatement_2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Gabon 0",
+      "description": null,
+      "author": [
+        "Gabon"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/gabon_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ghanastatement 0",
+      "description": null,
+      "author": [
+        "Ghana"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/ghanastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Guinea",
+      "description": null,
+      "author": [
+        "Guinea"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/guinea.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Guinea 0",
+      "description": null,
+      "author": [
+        "Guinea"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/guinea_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Kenyastatement",
+      "description": null,
+      "author": [
+        "Kenya"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/kenyastatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Republicofcongo",
+      "description": null,
+      "author": [
+        "Congo"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/republicofcongo.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Seychellesstatement",
+      "description": null,
+      "author": [
+        "Seychelles"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/seychellesstatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Somalia",
+      "description": null,
+      "author": [
+        "Somalia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/somalia.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Agenda Item 4 South Africa",
+      "description": null,
+      "author": [
+        "South Africa"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/agenda_item_4_south_africa.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Tunisia 0",
+      "description": null,
+      "author": [
+        "Tunisia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/tunisia_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Unitedrepublicoftanzania",
+      "description": null,
+      "author": [
+        "United Republic Of Tanzania"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/unitedrepublicoftanzania.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Zambiastatement",
+      "description": null,
+      "author": [
+        "Zambia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/zambiastatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Zimbambwe",
+      "description": null,
+      "author": [
+        "Zimbabwe"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/zimbambwe.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Bangladeshstatement 0",
+      "description": null,
+      "author": [
+        "Bangladesh"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/bangladeshstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Indonesia 0",
+      "description": null,
+      "author": [
+        "Indonesia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/indonesia_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "India 2",
+      "description": null,
+      "author": [
+        "India"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/india_2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "India Closing Plenary 0",
+      "description": null,
+      "author": [
+        "India"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/india_closing_plenary_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Iranstatement 0",
+      "description": null,
+      "author": [
+        "Iran (Islamic Republic of)"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/iranstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Japanstatement",
+      "description": null,
+      "author": [
+        "Japan"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/japanstatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Maldivesstatement",
+      "description": null,
+      "author": [
+        "Maldives"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/maldivesstatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Nepal 1",
+      "description": null,
+      "author": [
+        "Nepal"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/nepal_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Oman",
+      "description": null,
+      "author": [
+        "Oman"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/oman.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Pakistanstatement 0",
+      "description": null,
+      "author": [
+        "Pakistan"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/pakistanstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Philippinesstatement 0",
+      "description": null,
+      "author": [
+        "Philippines"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/philippinesstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Republicofkoreastatement 0",
+      "description": null,
+      "author": [
+        "Republic Of Korea"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/republicofkoreastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Saudiarabiaagenda4",
+      "description": null,
+      "author": [
+        "Saudi Arabia"
+      ],
+      "document_type": "statement",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/42787/SaudiArabiaAgenda4.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Saudiarabiaclosingstatement",
+      "description": null,
+      "author": [
+        "Saudi Arabia"
+      ],
+      "document_type": "statement",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/42788/SaudiArabiaClosingStatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Sri Lanka 1",
+      "description": null,
+      "author": [
+        "Sri Lanka"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/sri_lanka_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Palestinestatement 0",
+      "description": null,
+      "author": [
+        "State Of Palestine"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/palestinestatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Thailand 0",
+      "description": null,
+      "author": [
+        "Thailand"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/thailand_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Timorleste 2",
+      "description": null,
+      "author": [
+        "Timor-Leste"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/timorleste_2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Agenda4 Qatar",
+      "description": null,
+      "author": [
+        "Qatar"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/agenda4_qatar.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Armenia",
+      "description": null,
+      "author": [
+        "Armenia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/armenia.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Georgiastatement 0",
+      "description": null,
+      "author": [
+        "Georgia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/georgiastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Antiguabarbudastatement 0",
+      "description": null,
+      "author": [
+        "Antigua And Barbuda"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/antiguabarbudastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Argentinastatement4",
+      "description": null,
+      "author": [
+        "Argentina"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/argentinastatement4.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Brazil 1",
+      "description": null,
+      "author": [
+        "Brazil"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/brazil_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Chilestatement 0",
+      "description": null,
+      "author": [
+        "Chile"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/chilestatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Chile 1",
+      "description": null,
+      "author": [
+        "Chile"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/chile_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Colombia Statement",
+      "description": null,
+      "author": [
+        "Colombia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/colombia_statement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Costaricastatement 0",
+      "description": null,
+      "author": [
+        "Costa Rica"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/costaricastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Costa Rica National Statement Inc2 02-06-2023 0",
+      "description": null,
+      "author": [
+        "Costa Rica"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/costa_rica_national_statement_inc2_02-06-2023_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Cuba 1",
+      "description": null,
+      "author": [
+        "Cuba"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/cuba_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Dominicanrepublicstatement 0",
+      "description": null,
+      "author": [
+        "Dominican Republic"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/dominicanrepublicstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ecuador 1",
+      "description": null,
+      "author": [
+        "Ecuador"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/ecuador_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Guatemala 0",
+      "description": null,
+      "author": [
+        "Guatemala"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/guatemala_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Jamaicastatement 0",
+      "description": null,
+      "author": [
+        "Jamaica"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/jamaicastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Mexicostatement",
+      "description": null,
+      "author": [
+        "Mexico"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/mexicostatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Panama",
+      "description": null,
+      "author": [
+        "Panama"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/panama.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Panama Closing Statement",
+      "description": null,
+      "author": [
+        "Panama"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/panama_closing_statement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Paraguay",
+      "description": null,
+      "author": [
+        "Paraguay"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/paraguay.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Peru",
+      "description": null,
+      "author": [
+        "Peru"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/peru.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Uruguaystatement",
+      "description": null,
+      "author": [
+        "Uruguay"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/uruguaystatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Venezuelastatement 0",
+      "description": null,
+      "author": [
+        "Venezuela"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/venezuelastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Australiastatement 0",
+      "description": null,
+      "author": [
+        "Australia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/australiastatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Canadastatementeng",
+      "description": null,
+      "author": [
+        "Canada"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/canadastatementeng.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Canadastatementfr",
+      "description": null,
+      "author": [
+        "Canada"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/canadastatementfr.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Iceland 1",
+      "description": null,
+      "author": [
+        "Iceland"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/iceland_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Israel",
+      "description": null,
+      "author": [
+        "Israel"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/israel.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Newzealandstatement 0",
+      "description": null,
+      "author": [
+        "New Zealand"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/newzealandstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Norway",
+      "description": null,
+      "author": [
+        "Norway"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/norway.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Switzerlandstatement",
+      "description": null,
+      "author": [
+        "Switzerland"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/switzerlandstatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Ukstatement 0",
+      "description": null,
+      "author": [
+        "United Kingdom Of Great Britain And Northern Ireland"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/ukstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Cuba Statement On Cg 1 About Core Obligations 0",
+      "description": null,
+      "author": [
+        "Cuba"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/cuba_statement_on_cg_1_about_core_obligations_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "India 1 0",
+      "description": null,
+      "author": [
+        "India"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/india_1_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Qatar 1",
+      "description": null,
+      "author": [
+        "Qatar"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/qatar_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Saudi Arabia 2",
+      "description": null,
+      "author": [
+        "Saudi Arabia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/saudi_arabia_2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Sri Lanka 2",
+      "description": null,
+      "author": [
+        "Sri Lanka"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/sri_lanka_2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "India 3",
+      "description": null,
+      "author": [
+        "India"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/india_3.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Saudi Arabia 3",
+      "description": null,
+      "author": [
+        "Saudi Arabia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/saudi_arabia_3.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "23062023 Bahrain",
+      "description": null,
+      "author": [
+        "Bahrain"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/23062023_bahrain.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "23062023 Oman",
+      "description": null,
+      "author": [
+        "Oman"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/23062023_oman.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "23062023 Kuwait",
+      "description": null,
+      "author": [
+        "Kuwait"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/23062023_kuwait.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "23062023 Us Agendaitem4",
+      "description": null,
+      "author": [
+        "United States of America"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/23062023_us_agendaitem4.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "24062023 Uae",
+      "description": null,
+      "author": [
+        "United Arab Emirates"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/24062023_uae.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "27062023 Uk Agenda4",
+      "description": null,
+      "author": [
+        "United Kingdom Of Great Britain And Northern Ireland"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/27062023_uk_agenda4.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "28062023 Australia",
+      "description": null,
+      "author": [
+        "Australia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/28062023_australia.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Singaporestatement",
+      "description": null,
+      "author": [
+        "Singapore"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/singaporestatement.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "22062023 Norway Cg1",
+      "description": null,
+      "author": [
+        "Norway"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/22062023_norway_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "23062023 New Zealand Cg1 And Cg2",
+      "description": null,
+      "author": [
+        "New Zealand"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/23062023_new_zealand_cg1_and_cg2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "27062023 Japan Cg1 And Cg2",
+      "description": null,
+      "author": [
+        "Japan"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/27062023_japan_cg1_and_cg2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "28062023 Bangladesh",
+      "description": null,
+      "author": [
+        "Bangladesh"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/28062023_bangladesh.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "21062023 Russian Federation",
+      "description": null,
+      "author": [
+        "Russian Federation"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/21062023_russian_federation.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "22062023 Brazil Cg1",
+      "description": null,
+      "author": [
+        "Brazil"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/22062023_brazil_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "22062023 Guatemala Cg1",
+      "description": null,
+      "author": [
+        "Guatemala"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/22062023_guatemala_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "22062023 Palau Cg1",
+      "description": null,
+      "author": [
+        "Palau"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/22062023_palau_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "23062023 Us Cg1",
+      "description": null,
+      "author": [
+        "United States of America"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/23062023_us_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "27062023 Uk Cg1",
+      "description": null,
+      "author": [
+        "United Kingdom Of Great Britain And Northern Ireland"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/27062023_uk_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "28062023 Malaysia Cg1",
+      "description": null,
+      "author": [
+        "Malaysia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/28062023_malaysia_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Brazil Cg1 And Cg2",
+      "description": null,
+      "author": [
+        "Brazil"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/brazil_cg1_and_cg2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "23062023 Us Cg2",
+      "description": null,
+      "author": [
+        "United States of America"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/23062023_us_cg2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "27062023 Uk Cg2",
+      "description": null,
+      "author": [
+        "United Kingdom Of Great Britain And Northern Ireland"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/27062023_uk_cg2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "28062023 Malaysia Cg2",
+      "description": null,
+      "author": [
+        "Malaysia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/28062023_malaysia_cg2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "27062023 Uk Intersessional Work",
+      "description": null,
+      "author": [
+        "United Kingdom Of Great Britain And Northern Ireland"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/27062023_uk_intersessional_work.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Africa",
+      "description": null,
+      "author": [
+        "Morocco",
+        "Angola",
+        "Mauritania",
+        "Burundi",
+        "Namibia",
+        "Mali",
+        "Guinea",
+        "Somalia",
+        "Botswana",
+        "Ghana",
+        "Benin",
+        "Gabon",
+        "United Republic Of Tanzania",
+        "Guinea Bissau",
+        "Algeria",
+        "Sudan",
+        "Togo",
+        "Uganda",
+        "Niger",
+        "Zambia",
+        "African Group of States",
+        "Libya",
+        "Eswatini",
+        "Tunisia",
+        "Lesotho",
+        "Mauritius",
+        "Ethiopia",
+        "Senegal",
+        "Cameroon",
+        "Mozambique",
+        "Equatorial Guinea",
+        "Congo",
+        "South Sudan",
+        "South Africa",
+        "Chad",
+        "Cote DIvoire",
+        "Zimbabwe",
+        "Comoros",
+        "Liberia",
+        "Burkina Faso",
+        "Sierra Leone",
+        "Rwanda",
+        "Djibouti",
+        "Gambia (Republic of The)",
+        "Malawi",
+        "Democratic Republic Of The Congo",
+        "Seychelles",
+        "Cabo Verde",
+        "Kenya",
+        "Madagascar",
+        "Eritrea",
+        "Central African Republic",
+        "Sao Tome and Principe",
+        "Egypt",
+        "Nigeria"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/africa.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Aosis Inc-2 Statements Positions - Final",
+      "description": null,
+      "author": [
+        "Samoa",
+        "Jamaica",
+        "Solomon Islands",
+        "Barbados",
+        "Alliance Of Small Island States (AOSIS)",
+        "Maldives",
+        "Small Island Developing States (SIDS)",
+        "Cuba",
+        "Kiribati",
+        "Guyana",
+        "Tuvalu",
+        "Timor-Leste",
+        "Bahamas",
+        "Cook Islands",
+        "Antigua and Barbuda",
+        "Dominica",
+        "Mauritius",
+        "Dominican Republic",
+        "Trinidad and Tobago",
+        "Singapore",
+        "Niue",
+        "Marshall Islands",
+        "Fiji",
+        "Tonga",
+        "Saint Lucia",
+        "Belize",
+        "Guinea-Bissau",
+        "Comoros",
+        "Papua New Guinea",
+        "Palau",
+        "Haiti",
+        "Saint Vincent and the Grenadines",
+        "Seychelles",
+        "Saint Kitts and Nevis",
+        "Cabo Verde",
+        "Nauru",
+        "Grenada",
+        "São Tomé and Príncipe",
+        "Micronesia (Federated States of)"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/aosis_inc-2_statements_positions_-_final.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Apgstatement 0",
+      "description": null,
+      "author": [
+        "Qatar",
+        "Lebanon",
+        "India",
+        "Samoa",
+        "Philippines",
+        "Solomon Islands",
+        "Maldives",
+        "Tajikistan",
+        "Afghanistan",
+        "Cambodia",
+        "Democratic People's Republic of Korea",
+        "Bahrain",
+        "Kiribati",
+        "Syrian Arab Republic",
+        "Cyprus",
+        "Saudi Arabia",
+        "Timor-Leste",
+        "Tuvalu",
+        "China",
+        "Bhutan",
+        "Iraq",
+        "Oman",
+        "Sri Lanka",
+        "Kuwait",
+        "Indonesia",
+        "Nepal",
+        "Turkmenistan",
+        "Singapore",
+        "United Arab Emirates",
+        "Uzbekistan",
+        "Pakistan",
+        "Vanuatu",
+        "Yemen",
+        "Marshall Islands",
+        "Fiji",
+        "Myanmar",
+        "Mongolia",
+        "Tonga",
+        "Asia-Pacific States",
+        "Thailand",
+        "Kazakhstan",
+        "Papua New Guinea",
+        "Palau",
+        "Jordan",
+        "Bangladesh",
+        "Lao People's Democratic Republic",
+        "Türkiye",
+        "Nauru",
+        "Republic of Korea",
+        "Japan",
+        "Iran (Islamic Republic of)",
+        "Kyrgyzstan",
+        "Brunei Darussalam",
+        "Viet Nam",
+        "Micronesia (Federated States of)",
+        "Malaysia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/apgstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Joint Regional Statement To Inc-2",
+      "description": null,
+      "author": [
+        "Coordinating Body on the Seas of East Asia (COBSEA)",
+        "China",
+        "Philippines",
+        "Republic Of Korea",
+        "Thailand",
+        "Indonesia",
+        "Cambodia",
+        "Singapore",
+        "Viet Nam",
+        "Malaysia"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/joint_regional_statement_to_inc-2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "European Union 1",
+      "description": null,
+      "author": [
+        "Estonia",
+        "Hungary",
+        "Poland",
+        "Bulgaria",
+        "Denmark",
+        "Lithuania",
+        "Sweden",
+        "European Union (EU) And Its 27 Member States",
+        "Ireland",
+        "Cyprus",
+        "Austria",
+        "Finland",
+        "Germany",
+        "Italy",
+        "Czech Republic",
+        "Netherlands",
+        "Croatia",
+        "Luxembourg",
+        "Spain",
+        "Belgium",
+        "Portugal",
+        "Slovenia",
+        "Malta",
+        "France",
+        "Romania",
+        "Slovakia",
+        "Latvia",
+        "Greece"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/european_union_1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Highambitioncoalitionstatement 0",
+      "description": null,
+      "author": [
+        "Uruguay",
+        "Peru",
+        "Moldova",
+        "The Dominican Republic",
+        "Estonia",
+        "Solomon Islands",
+        "Barbados",
+        "Maldives",
+        "Costa Rica",
+        "Mali",
+        "Guinea",
+        "Poland",
+        "Ghana",
+        "Norway",
+        "Republic of Ireland",
+        "Denmark",
+        "Sweden",
+        "Cape Verde",
+        "Panama",
+        "Bulgaria",
+        "Mexico",
+        "Gabon",
+        "Benin",
+        "Togo",
+        "Cook Islands",
+        "United Kingdom",
+        "Austria",
+        "Finland",
+        "Armenia",
+        "Azerbaijan",
+        "Antigua and Barbuda",
+        "Germany",
+        "Mauritius",
+        "Greenland",
+        "Ecuador",
+        "Senegal",
+        "Switzerland",
+        "Ukraine",
+        "Iceland",
+        "The Netherlands",
+        "Luxembourg",
+        "Spain",
+        "Monaco",
+        "New Zealand",
+        "Belgium",
+        "Fiji",
+        "Portugal",
+        "Slovenia",
+        "The United Arab Emirates",
+        "European Union",
+        "Burkina Faso",
+        "France",
+        "Palau",
+        "Jordan",
+        "High Ambition Coalition (HAC)",
+        "Romania",
+        "Rwanda",
+        "Chile",
+        "Colombia",
+        "Montenegro",
+        "Malawi",
+        "Australia",
+        "Seychelles",
+        "Kenya",
+        "Georgia",
+        "Canada",
+        "Republic of Korea",
+        "Japan",
+        "Israel",
+        "Micronesia (Federated States of)",
+        "Nigeria"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/highambitioncoalitionstatement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Grulacstatement English",
+      "description": null,
+      "author": [
+        "Guatemala",
+        "Uruguay",
+        "Peru",
+        "Suriname",
+        "Jamaica",
+        "Barbados",
+        "Costa Rica",
+        "Antigua And Barbuda",
+        "Latin American And Caribbean Group (GRULAC)",
+        "Cuba",
+        "Panama",
+        "Guyana",
+        "Mexico",
+        "Paraguay",
+        "El Salvador",
+        "Dominica",
+        "Dominican Republic",
+        "Ecuador",
+        "Bolivia",
+        "Saint Lucia",
+        "Belize",
+        "Bahamas (The)",
+        "Venezuela",
+        "Honduras",
+        "Haiti",
+        "Trinidad And Tobago",
+        "Saint Vincent and the Grenadines",
+        "Chile",
+        "Nicaragua",
+        "Colombia",
+        "Saint Kitts and Nevis",
+        "Argentina",
+        "Grenada",
+        "Brazil"
+      ],
+      "document_type": "statement",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/42594/GRULACstatement_English.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Grulacstatement Spanish",
+      "description": null,
+      "author": [
+        "Guatemala",
+        "Uruguay",
+        "Peru",
+        "Suriname",
+        "Jamaica",
+        "Barbados",
+        "Costa Rica",
+        "Antigua And Barbuda",
+        "Latin American And Caribbean Group (GRULAC)",
+        "Cuba",
+        "Panama",
+        "Guyana",
+        "Mexico",
+        "Paraguay",
+        "El Salvador",
+        "Dominica",
+        "Dominican Republic",
+        "Ecuador",
+        "Bolivia",
+        "Saint Lucia",
+        "Belize",
+        "Bahamas (The)",
+        "Venezuela",
+        "Honduras",
+        "Haiti",
+        "Trinidad And Tobago",
+        "Saint Vincent and the Grenadines",
+        "Chile",
+        "Nicaragua",
+        "Colombia",
+        "Saint Kitts and Nevis",
+        "Argentina",
+        "Grenada",
+        "Brazil"
+      ],
+      "document_type": "statement",
+      "href": "https://wedocs.unep.org/bitstream/handle/20.500.11822/42594/GRULACstatement_spanish.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Grulac Closing Statement 0",
+      "description": null,
+      "author": [
+        "Guatemala",
+        "Uruguay",
+        "Peru",
+        "Suriname",
+        "Jamaica",
+        "Barbados",
+        "Costa Rica",
+        "Antigua And Barbuda",
+        "Latin American And Caribbean Group (GRULAC)",
+        "Cuba",
+        "Panama",
+        "Guyana",
+        "Mexico",
+        "Paraguay",
+        "El Salvador",
+        "Dominica",
+        "Dominican Republic",
+        "Ecuador",
+        "Bolivia",
+        "Saint Lucia",
+        "Belize",
+        "Bahamas (The)",
+        "Venezuela",
+        "Honduras",
+        "Haiti",
+        "Trinidad And Tobago",
+        "Saint Vincent and the Grenadines",
+        "Chile",
+        "Nicaragua",
+        "Colombia",
+        "Saint Kitts and Nevis",
+        "Argentina",
+        "Grenada",
+        "Brazil"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/grulac_closing_statement_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Grulac Intervencion De Cierre 0",
+      "description": null,
+      "author": [
+        "Guatemala",
+        "Uruguay",
+        "Peru",
+        "Suriname",
+        "Jamaica",
+        "Barbados",
+        "Costa Rica",
+        "Antigua And Barbuda",
+        "Latin American And Caribbean Group (GRULAC)",
+        "Cuba",
+        "Panama",
+        "Guyana",
+        "Mexico",
+        "Paraguay",
+        "El Salvador",
+        "Dominica",
+        "Dominican Republic",
+        "Ecuador",
+        "Bolivia",
+        "Saint Lucia",
+        "Belize",
+        "Bahamas (The)",
+        "Venezuela",
+        "Honduras",
+        "Haiti",
+        "Trinidad And Tobago",
+        "Saint Vincent and the Grenadines",
+        "Chile",
+        "Nicaragua",
+        "Colombia",
+        "Saint Kitts and Nevis",
+        "Argentina",
+        "Grenada",
+        "Brazil"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/grulac_intervencion_de_cierre_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Psids",
+      "description": null,
+      "author": [
+        "Tuvalu",
+        "Vanuatu",
+        "Cook Islands",
+        "Marshall Islands",
+        "Fiji",
+        "Samoa",
+        "Tonga",
+        "Solomon Islands",
+        "Pacific Small Island Developing States (PSIDS)",
+        "Nauru",
+        "Palau",
+        "Papua New Guinea",
+        "Niue",
+        "Kiribati",
+        "Micronesia (Federated States of)"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/psids.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "Eu 0",
+      "description": null,
+      "author": [
+        "Estonia",
+        "Hungary",
+        "Poland",
+        "Bulgaria",
+        "Denmark",
+        "Lithuania",
+        "Sweden",
+        "European Union (EU) And Its 27 Member States",
+        "Ireland",
+        "Cyprus",
+        "Austria",
+        "Finland",
+        "Germany",
+        "Italy",
+        "Czech Republic",
+        "Netherlands",
+        "Croatia",
+        "Luxembourg",
+        "Spain",
+        "Belgium",
+        "Portugal",
+        "Slovenia",
+        "Malta",
+        "France",
+        "Romania",
+        "Slovakia",
+        "Latvia",
+        "Greece"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/eu_0.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "27062023 Eu And Its Member States Cg1",
+      "description": null,
+      "author": [
+        "Estonia",
+        "Hungary",
+        "Poland",
+        "Bulgaria",
+        "Denmark",
+        "Lithuania",
+        "Sweden",
+        "European Union (EU) And Its 27 Member States",
+        "Ireland",
+        "Cyprus",
+        "Austria",
+        "Finland",
+        "Germany",
+        "Italy",
+        "Czech Republic",
+        "Netherlands",
+        "Croatia",
+        "Luxembourg",
+        "Spain",
+        "Belgium",
+        "Portugal",
+        "Slovenia",
+        "Malta",
+        "France",
+        "Romania",
+        "Slovakia",
+        "Latvia",
+        "Greece"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/27062023_eu_and_its_member_states_cg1.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "22062023 Psids",
+      "description": null,
+      "author": [
+        "Tuvalu",
+        "Vanuatu",
+        "Cook Islands",
+        "Marshall Islands",
+        "Fiji",
+        "Samoa",
+        "Tonga",
+        "Solomon Islands",
+        "Pacific Small Island Developing States (PSIDS)",
+        "Nauru",
+        "Palau",
+        "Papua New Guinea",
+        "Niue",
+        "Kiribati",
+        "Micronesia (Federated States of)"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/22062023_psids.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    },
+    {
+      "id": null,
+      "title": "27062023 Eu And Its Member States Cg2",
+      "description": null,
+      "author": [
+        "Estonia",
+        "Hungary",
+        "Poland",
+        "Bulgaria",
+        "Denmark",
+        "Lithuania",
+        "Sweden",
+        "European Union (EU) And Its 27 Member States",
+        "Ireland",
+        "Cyprus",
+        "Austria",
+        "Finland",
+        "Germany",
+        "Italy",
+        "Czech Republic",
+        "Netherlands",
+        "Croatia",
+        "Luxembourg",
+        "Spain",
+        "Belgium",
+        "Portugal",
+        "Slovenia",
+        "Malta",
+        "France",
+        "Romania",
+        "Slovakia",
+        "Latvia",
+        "Greece"
+      ],
+      "document_type": "statement",
+      "href": "https://resolutions.unep.org/resolutions/uploads/27062023_eu_and_its_member_states_cg2.pdf",
+      "session": "2",
+      "verified": false,
+      "retriever_id": null,
+      "key_element": null,
+      "topic": []
+    }
+  ]
+}

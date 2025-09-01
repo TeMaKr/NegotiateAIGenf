@@ -1,0 +1,6 @@
+target_host: www.negotiate-ai.com
+caddy:
+  primary_host: www.negotiate-ai.com
+  redirect_hosts:
+    - negotiate-ai.com
+  basic_auth: []

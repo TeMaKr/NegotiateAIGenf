@@ -1,0 +1,68 @@
+# domain forwarding section - redirect alternative domains to primary domain
+%{ for redirect_host in redirect_hosts ~}
+${redirect_host} {
+    redir https://${primary_host}{uri} permanent
+}
+%{ endfor ~}
+
+${primary_host} {
+
+       # enable logging and encoding
+       log
+       encode gzip
+
+       # strip the Server header
+       header {
+              -Server
+              -via
+       }
+
+       # forward traffic to the frontend
+       handle {
+              %{ if length(basic_auth) > 0 }
+              basicauth {
+                     %{ for user, password in basic_auth }${user} ${password}
+                     %{ endfor ~}
+              }
+              %{ endif }
+              rewrite * {path}
+              reverse_proxy http://127.0.0.1:${docker_port_webapp}
+       }
+
+       # forward traffic to the PocketBase backend
+       handle_path /pocketbase/* {
+              rewrite * {path}
+              reverse_proxy http://127.0.0.1:${docker_port_orchestration_pocketbase} {
+                     transport http {
+                            read_timeout 360s
+                     }
+              }
+              request_body {
+       		max_size 10MB
+	       }
+       }
+
+       # block submission paths specifically
+       handle /api/api/synchronize-submission {
+              respond "Access denied" 403
+       }
+       handle /api/api/process-submission {
+              respond "Access denied" 403
+       }
+       handle /api/api/delete-submission-vector {
+              respond "Access denied" 403
+       }
+
+       # forward traffic to the FastAPI backend
+       handle_path /api/* {
+              rewrite * {path}
+              reverse_proxy http://127.0.0.1:${docker_port_orchestration_fastapi} {
+                     transport http {
+                            read_timeout 360s
+                     }
+              }
+              request_body {
+       		max_size 10MB
+	       }
+       }
+}
